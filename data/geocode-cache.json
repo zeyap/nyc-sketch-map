@@ -1,0 +1,358 @@
+{
+  "Brooklyn Bridge Park, Brooklyn, NY 11201, USA": {
+    "lat": 40.7024,
+    "lng": -73.9967,
+    "borough": "Brooklyn",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Woodlawn Cemetery, 3800 Jerome Ave, Bronx, NY 10467, USA": {
+    "lat": 40.8932,
+    "lng": -73.8712,
+    "borough": "Bronx",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "The High Line, New York, NY 10011, USA": {
+    "lat": 40.7480,
+    "lng": -74.0048,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Queens Museum and Fairgrounds": {
+    "lat": 40.7458,
+    "lng": -73.8467,
+    "borough": "Queens",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Brooklyn Museum": {
+    "lat": 40.6712,
+    "lng": -73.9636,
+    "borough": "Brooklyn",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Pier 45": {
+    "lat": 40.7331,
+    "lng": -74.0116,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Jefferson Market Library and Garden": {
+    "lat": 40.7341,
+    "lng": -73.9993,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Coney Island, Brooklyn, NY, USA": {
+    "lat": 40.5749,
+    "lng": -73.9710,
+    "borough": "Brooklyn",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Roosevelt Island, New York, NY 10044, USA": {
+    "lat": 40.7620,
+    "lng": -73.9510,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Battery Park and Sea Glass Carousel": {
+    "lat": 40.7033,
+    "lng": -74.0170,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Fort Tryon Park, 214 Bennett Ave, New York, NY 10040, USA": {
+    "lat": 40.8624,
+    "lng": -73.9319,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Madison Square Park": {
+    "lat": 40.7420,
+    "lng": -73.9876,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Flatiron District, New York, NY, USA": {
+    "lat": 40.7411,
+    "lng": -73.9897,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Manhattan West": {
+    "lat": 40.7533,
+    "lng": -74.0005,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Duane Park, 3836 166 Duane St, New York, NY 10013, USA": {
+    "lat": 40.7175,
+    "lng": -74.0070,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "590 Madison Public Atrium, 590 Madison Ave, New York, NY 10022, USA": {
+    "lat": 40.7633,
+    "lng": -73.9727,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Davis Center at Harlem Meer": {
+    "lat": 40.7975,
+    "lng": -73.9527,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Bryant Park": {
+    "lat": 40.7536,
+    "lng": -73.9832,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "New Dawn Foundation": {
+    "lat": 40.9116,
+    "lng": -73.7826,
+    "borough": "Westchester",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Bethesda Fountain, New York, NY 10024, USA": {
+    "lat": 40.7736,
+    "lng": -73.9712,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Macy's Flower Show": {
+    "lat": 40.7508,
+    "lng": -73.9890,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Elizabeth Street Garden, Elizabeth St, New York, NY 10012, USA": {
+    "lat": 40.7227,
+    "lng": -73.9955,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Mitsuwa Marketplace - New Jersey, 595 River Rd, Edgewater, NJ 07020, USA": {
+    "lat": 40.8255,
+    "lng": -73.9755,
+    "borough": "New Jersey",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "590 Madison Ave, New York, NY 10022, USA": {
+    "lat": 40.7633,
+    "lng": -73.9727,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "The Hugh, 157 E 53rd St, New York, NY 10022, USA": {
+    "lat": 40.7590,
+    "lng": -73.9712,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Branch Brook Park Cherry Blossoms": {
+    "lat": 40.7637,
+    "lng": -74.1713,
+    "borough": "New Jersey",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "NY Botanical Garden": {
+    "lat": 40.8631,
+    "lng": -73.8772,
+    "borough": "Bronx",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Jane's Carousel, 1 Old, Dock St, Brooklyn, NY 11201, USA": {
+    "lat": 40.7041,
+    "lng": -73.9937,
+    "borough": "Brooklyn",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Met Musem Islamic Art": {
+    "lat": 40.7794,
+    "lng": -73.9632,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Asia Society and Museum, 725 Park Ave, New York, NY 10021, USA": {
+    "lat": 40.7699,
+    "lng": -73.9644,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Japan Society, 333 E 47th St, New York, NY 10017, USA": {
+    "lat": 40.7527,
+    "lng": -73.9681,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Ahavas Shalom, 145 Broadway, Newark, NJ 07104, USA. and cathedral of Sacred Heart Newar": {
+    "lat": 40.7577,
+    "lng": -74.1723,
+    "borough": "New Jersey",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Pier 57, 25 11th Ave, New York, NY 10011, USA": {
+    "lat": 40.7450,
+    "lng": -74.0079,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "African Art Museum of the SMA, 23 Bliss Ave, Tenafly, NJ 07670, USA": {
+    "lat": 40.9157,
+    "lng": -73.9574,
+    "borough": "New Jersey",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "The New York Historical, 170 Central Prk W, New York, NY 10024, USA": {
+    "lat": 40.7792,
+    "lng": -73.9740,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "St. Nicholas National Shrine, 130 Liberty St, New York, NY 10006, USA": {
+    "lat": 40.7112,
+    "lng": -74.0132,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "New Jersey Aviation Hall of Fame, 400 Fred Wehran Dr, Teterboro, NJ 07608, USA": {
+    "lat": 40.8601,
+    "lng": -74.0609,
+    "borough": "New Jersey",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "The Frick Collection, 1 E 70th St, New York, NY 10021, USA": {
+    "lat": 40.7710,
+    "lng": -73.9674,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "National Museum of the American Indian, 1 Bowling Green, New York, NY 10004, USA": {
+    "lat": 40.7040,
+    "lng": -74.0137,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "88 Essex St, NY, NY": {
+    "lat": 40.7175,
+    "lng": -73.9884,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Nicholas Roerich Museum, 319 W 107th St, New York, NY 10025, USA": {
+    "lat": 40.8013,
+    "lng": -73.9653,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Studio Museum of Harlem": {
+    "lat": 40.8095,
+    "lng": -73.9445,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Museum of the City of NY": {
+    "lat": 40.7925,
+    "lng": -73.9519,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "AMNH": {
+    "lat": 40.7813,
+    "lng": -73.9740,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Art and Design H.S.- 245 E 56th Street, NY, NY": {
+    "lat": 40.7582,
+    "lng": -73.9671,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "10-28 46th Ave, Long Island City, NY 11101, USA": {
+    "lat": 40.7472,
+    "lng": -73.9208,
+    "borough": "Queens",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "The \"Oaks\" New Dawn Foundation, 590 Davenport Ave, New Rochelle, NY 10805, USA": {
+    "lat": 40.9116,
+    "lng": -73.7826,
+    "borough": "Westchester",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "NO EVENT Happy July 4th": {
+    "lat": null,
+    "lng": null,
+    "provider": "skip",
+    "updatedAt": "2026-05-25"
+  },
+  "Blick Art Materials, 443 Broadway, New York, NY 10013, USA": {
+    "lat": 40.7207,
+    "lng": -74.0007,
+    "borough": "Manhattan",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "Queens Botanical Garden, 43-50 Main St, Queens, NY 11355, USA": {
+    "lat": 40.7521,
+    "lng": -73.8268,
+    "borough": "Queens",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  },
+  "THURSDAY, March 13, 2025: Westchester Sketchers at The Westchester Mall, White Plains For details click here: https://www.nycurbansketchers.org/2025/03/thursday-march-13-2025-westchester.html": {
+    "lat": 41.0312,
+    "lng": -73.7694,
+    "borough": "Westchester",
+    "provider": "manual",
+    "updatedAt": "2026-05-25"
+  }
+}
