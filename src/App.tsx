@@ -1,4 +1,4 @@
-import { useState, useMemo, useCallback, useEffect } from "react";
+import { useState, useMemo, useCallback } from "react";
 import { useEvents } from "./useEvents";
 import { SketchMap } from "./SketchMap";
 import { FilterPanel } from "./FilterPanel";
@@ -14,12 +14,6 @@ function App() {
     day: "all",
     search: "",
   });
-
-  useEffect(() => {
-    if (events.length === 0) return;
-    const maxYear = Math.max(...events.map((e) => e.year));
-    setFilters((f) => (f.year === "all" ? { ...f, year: maxYear } : f));
-  }, [events]);
   const [selectedEvents, setSelectedEvents] = useState<SketchMapEvent[]>([]);
 
   const filtered = useMemo(() => {
