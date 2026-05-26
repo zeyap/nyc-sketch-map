@@ -86,22 +86,22 @@ export function EventCard({ events, rank, tiedWith, onClose }: Props) {
         <div className="flex items-center justify-between mb-2 px-1 gap-2">
           <div className="flex items-center gap-2">
             <span className="text-xs text-gray-500 bg-white/90 px-2 py-0.5 rounded-full">
-              {events.length} events at this location
+              {events.length} events
             </span>
             {rankInfo && (
               <span className="text-xs text-amber-700 bg-amber-50/90 px-2 py-0.5 rounded-full">
                 {rankInfo.icon} {rankInfo.label}
                 {tiedWith != null && tiedWith > 0 && (
-                  <span className="text-amber-500"> (tied with {tiedWith} other{tiedWith > 1 ? "s" : ""})</span>
+                  <span className="text-amber-500"> ({tiedWith + 1}-way tie)</span>
                 )}
               </span>
             )}
           </div>
           <button
             onClick={onClose}
-            className="text-gray-500 hover:text-gray-700 text-sm bg-white/90 px-2 py-0.5 rounded-full cursor-pointer"
+            className="text-gray-500 hover:text-gray-700 text-sm bg-white/90 w-6 h-6 flex items-center justify-center rounded-full cursor-pointer"
           >
-            &times; close
+            &times;
           </button>
         </div>
       )}
