@@ -4,6 +4,7 @@ import { SEASON_COLORS } from "./colors";
 type Props = {
   events: SketchMapEvent[];
   rank?: number;
+  tiedWith?: number;
   onClose: () => void;
 };
 
@@ -75,7 +76,7 @@ function SingleCard({ event }: { event: SketchMapEvent }) {
   );
 }
 
-export function EventCard({ events, rank, onClose }: Props) {
+export function EventCard({ events, rank, tiedWith, onClose }: Props) {
   const isMultiple = events.length > 1;
   const rankInfo = rank != null ? RANK_LABELS[rank] : undefined;
 
@@ -90,6 +91,9 @@ export function EventCard({ events, rank, onClose }: Props) {
             {rankInfo && (
               <span className="text-xs text-amber-700 bg-amber-50/90 px-2 py-0.5 rounded-full">
                 {rankInfo.icon} {rankInfo.label}
+                {tiedWith != null && tiedWith > 0 && (
+                  <span className="text-amber-500"> (tied with {tiedWith} other{tiedWith > 1 ? "s" : ""})</span>
+                )}
               </span>
             )}
           </div>
