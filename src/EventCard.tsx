@@ -81,9 +81,9 @@ export function EventCard({ events, rank, tiedWith, onClose }: Props) {
   const rankInfo = rank != null ? RANK_LABELS[rank] : undefined;
 
   return (
-    <div className="absolute bottom-6 left-1/2 -translate-x-1/2 z-20 max-w-[calc(100vw-2rem)] pb-[env(safe-area-inset-bottom)]">
+    <div className="absolute bottom-6 left-4 right-0 z-20 pb-[env(safe-area-inset-bottom)]">
       {isMultiple && (
-        <div className="flex items-center justify-between mb-2 px-1 gap-2">
+        <div className="flex items-center justify-between mb-2 px-5 gap-2">
           <div className="flex items-center gap-2">
             <span className="text-xs text-gray-500 bg-white/90 px-2 py-0.5 rounded-full">
               {events.length} events
@@ -113,7 +113,7 @@ export function EventCard({ events, rank, tiedWith, onClose }: Props) {
             : ""
         }`}
       >
-        {events.map((event) => (
+        {events.map((event, i) => (
           <div key={event.id} className="relative">
             {!isMultiple && (
               <button
