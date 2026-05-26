@@ -157,7 +157,7 @@ export function FilterPanel({ filters, onChange, events, filteredCount, onSelect
             className="flex items-center justify-between cursor-pointer"
             onClick={() => setWeekCollapsed(!weekCollapsed)}
           >
-            <p className="text-[10px] font-medium text-gray-400 uppercase tracking-wide flex items-center gap-2">This week <span className="relative flex h-2 w-2"><span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span><span className="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span></span></p>
+            <p className="text-[10px] font-medium text-gray-400 uppercase tracking-wide flex items-center gap-2"><span className="relative flex h-2 w-2"><span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span><span className="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span></span> This week</p>
             <svg className={`w-4 h-4 text-gray-400 transition-transform ${weekCollapsed ? "" : "rotate-180"}`} viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round"><path d="M3 6l5 3 5-3" /></svg>
           </div>
           {!weekCollapsed && (
