@@ -11,11 +11,12 @@ type Props = {
 function toGeoJSON(events: SketchMapEvent[]): GeoJSON.FeatureCollection {
   return {
     type: "FeatureCollection",
-    features: events.map((e) => ({
-      type: "Feature",
-      geometry: { type: "Point", coordinates: [e.lng!, e.lat!] },
+    features: events.map((e, i) => ({
+      type: "Feature" as const,
+      id: i,
+      geometry: { type: "Point" as const, coordinates: [e.lng!, e.lat!] },
       properties: {
-        id: e.id,
+        eventId: e.id,
         title: e.title,
         season: e.season,
         color: SEASON_COLORS[e.season],
@@ -102,7 +103,13 @@ export function SketchMap({ events, onSelectEvents }: Props) {
       });
 
       map.on("click", (e) => {
-        const clusterFeatures = map.queryRenderedFeatures(e.point, {
+        const tolerance = 12;
+        const bbox: [maplibregl.PointLike, maplibregl.PointLike] = [
+          [e.point.x - tolerance, e.point.y - tolerance],
+          [e.point.x + tolerance, e.point.y + tolerance],
+        ];
+
+        const clusterFeatures = map.queryRenderedFeatures(bbox, {
           layers: [CLUSTER_LAYER],
         });
 
@@ -111,7 +118,7 @@ export function SketchMap({ events, onSelectEvents }: Props) {
           const source = map.getSource(SOURCE_ID) as maplibregl.GeoJSONSource;
           const clusterId = feature.properties?.cluster_id;
           source.getClusterLeaves(clusterId, Infinity, 0).then((leaves) => {
-            const ids = leaves.map((f) => f.properties?.id).filter(Boolean);
+            const ids = leaves.map((f) => f.properties?.eventId).filter(Boolean);
             const matches = eventsRef.current.filter((ev) =>
               ids.includes(ev.id)
             );
@@ -126,13 +133,13 @@ export function SketchMap({ events, onSelectEvents }: Props) {
           return;
         }
 
-        const pointFeatures = map.queryRenderedFeatures(e.point, {
+        const pointFeatures = map.queryRenderedFeatures(bbox, {
           layers: [UNCLUSTERED_LAYER],
         });
 
         if (pointFeatures.length > 0) {
           const clickedIds = new Set(
-            pointFeatures.map((f) => f.properties?.id).filter(Boolean)
+            pointFeatures.map((f) => f.properties?.eventId).filter(Boolean)
           );
           const coords = (pointFeatures[0].geometry as GeoJSON.Point)
             .coordinates as [number, number];
