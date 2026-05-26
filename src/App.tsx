@@ -63,12 +63,15 @@ function App() {
       .filter(([, c]) => c > 1)
       .sort((a, b) => b[1] - a[1]);
     const ranks = new Map<string, number>();
-    const seen = new Set<number>();
+    let rank = 0;
+    let prevCount = -1;
     for (const [key, count] of sorted) {
-      if (seen.has(count)) continue;
-      seen.add(count);
-      ranks.set(key, ranks.size + 1);
-      if (ranks.size >= 3) break;
+      if (count !== prevCount) {
+        rank++;
+        prevCount = count;
+      }
+      if (rank > 3) break;
+      ranks.set(key, rank);
     }
     return ranks;
   }, [filtered]);
