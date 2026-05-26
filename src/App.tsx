@@ -87,8 +87,17 @@ function App() {
     return locationRanks.get(`${first.lat},${first.lng}`);
   }, [selectedEvents, locationRanks]);
 
+  const [flyTo, setFlyTo] = useState<{ lng: number; lat: number } | null>(null);
+
   const handleSelectEvents = useCallback((evts: SketchMapEvent[]) => {
     setSelectedEvents(evts);
+  }, []);
+
+  const handleSelectUpcoming = useCallback((event: SketchMapEvent) => {
+    setSelectedEvents([event]);
+    if (event.lat != null && event.lng != null) {
+      setFlyTo({ lat: event.lat, lng: event.lng });
+    }
   }, []);
 
   if (loading) {
@@ -101,12 +110,13 @@ function App() {
 
   return (
     <div className="h-screen w-screen relative">
-      <SketchMap events={filtered} onSelectEvents={handleSelectEvents} />
+      <SketchMap events={filtered} onSelectEvents={handleSelectEvents} flyTo={flyTo} />
       <FilterPanel
         filters={filters}
         onChange={setFilters}
         events={events}
         filteredCount={filtered.length}
+        onSelectEvent={handleSelectUpcoming}
       />
       {selectedEvents.length > 0 && (
         <EventCard

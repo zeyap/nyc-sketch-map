@@ -18,7 +18,7 @@ function SingleCard({ event }: { event: SketchMapEvent }) {
   const color = SEASON_COLORS[event.season];
 
   return (
-    <div className="bg-white/95 backdrop-blur-sm rounded-xl shadow-lg p-4 w-72 flex-shrink-0 snap-start">
+    <div className="bg-white/50 backdrop-blur-sm rounded-xl shadow-lg p-4 w-72 flex-shrink-0 snap-start">
       <div className="flex items-center gap-2 mb-2">
         <span
           className="inline-block w-3 h-3 rounded-full flex-shrink-0"

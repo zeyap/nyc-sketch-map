@@ -1,3 +1,4 @@
+import { useState, useMemo } from "react";
 import type { DayOfWeek, Filters, Season, SketchMapEvent } from "./types";
 import { SEASON_COLORS } from "./colors";
 
@@ -11,22 +12,47 @@ type Props = {
   onChange: (f: Filters) => void;
   events: SketchMapEvent[];
   filteredCount: number;
+  onSelectEvent: (event: SketchMapEvent) => void;
 };
 
-export function FilterPanel({ filters, onChange, events, filteredCount }: Props) {
+export function FilterPanel({ filters, onChange, events, filteredCount, onSelectEvent }: Props) {
+  const [collapsed, setCollapsed] = useState(false);
+  const [weekCollapsed, setWeekCollapsed] = useState(false);
   const years = [...new Set(events.map((e) => e.year))].sort((a, b) => b - a);
   const boroughs = [...new Set(events.map((e) => e.borough).filter(Boolean))].sort() as string[];
 
+  const upcoming = useMemo(() => {
+    const now = new Date();
+    const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    const endOfWeek = new Date(today);
+    endOfWeek.setDate(today.getDate() + (7 - today.getDay()));
+    return events
+      .filter((e) => {
+        const d = new Date(e.date + "T12:00:00");
+        return d >= today && d <= endOfWeek;
+      })
+      .sort((a, b) => a.date.localeCompare(b.date));
+  }, [events]);
+
   return (
-    <div className="absolute top-4 left-4 z-10 bg-white/95 backdrop-blur-sm rounded-xl shadow-lg p-4 w-72 space-y-3">
-      <div>
-        <h1 className="text-lg font-semibold text-gray-900 leading-tight">
-          NYC Sketch Map
-        </h1>
-        <p className="text-xs text-gray-500 mt-0.5">
-          {filteredCount} of {events.length} locations
-        </p>
+    <div className="absolute top-4 left-4 z-10 w-72">
+    <div className="bg-white/50 backdrop-blur-sm rounded-xl shadow-lg p-4">
+      <div
+        className="flex items-center justify-between cursor-pointer"
+        onClick={() => setCollapsed(!collapsed)}
+      >
+        <div>
+          <h1 className="text-lg font-semibold text-gray-900 leading-tight">
+            Where NYC Sketches
+          </h1>
+          <p className="text-xs text-gray-500 mt-0.5">
+            {filteredCount} of {events.length} locations
+          </p>
+        </div>
+        <svg className={`w-4 h-4 text-gray-400 transition-transform ${collapsed ? "" : "rotate-180"}`} viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round"><path d="M3 6l5 3 5-3" /></svg>
       </div>
+
+      {!collapsed && <div className="space-y-3 mt-3">
 
       <input
         type="text"
@@ -121,6 +147,37 @@ export function FilterPanel({ filters, onChange, events, filteredCount }: Props)
           </select>
         </div>
       </div>
+      </div>}
+
+    </div>
+
+      {upcoming.length > 0 && (
+        <div className="bg-white/50 backdrop-blur-sm rounded-xl shadow-lg mt-2 p-4">
+          <div
+            className="flex items-center justify-between cursor-pointer"
+            onClick={() => setWeekCollapsed(!weekCollapsed)}
+          >
+            <p className="text-[10px] font-medium text-gray-400 uppercase tracking-wide flex items-center gap-2">This week <span className="relative flex h-2 w-2"><span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span><span className="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span></span></p>
+            <svg className={`w-4 h-4 text-gray-400 transition-transform ${weekCollapsed ? "" : "rotate-180"}`} viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round"><path d="M3 6l5 3 5-3" /></svg>
+          </div>
+          {!weekCollapsed && (
+            <div className="space-y-2 mt-2">
+              {upcoming.map((e) => <NextUpItem key={e.id} event={e} onClick={() => onSelectEvent(e)} />)}
+            </div>
+          )}
+        </div>
+      )}
+    </div>
+  );
+}
+
+function NextUpItem({ event, onClick }: { event: SketchMapEvent; onClick: () => void }) {
+  const d = new Date(event.date + "T12:00:00");
+  const label = d.toLocaleDateString("en-US", { weekday: "short", month: "numeric", day: "numeric" });
+  return (
+    <div className="flex gap-2 items-baseline cursor-pointer hover:bg-gray-100 rounded px-1 -mx-1" onClick={onClick}>
+      <span className="text-[11px] text-gray-400 w-16 flex-shrink-0">{label}</span>
+      <span className="text-xs text-gray-700 truncate">{event.title}</span>
     </div>
   );
 }

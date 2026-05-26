@@ -6,6 +6,7 @@ import { SEASON_COLORS } from "./colors";
 type Props = {
   events: SketchMapEvent[];
   onSelectEvents: (events: SketchMapEvent[]) => void;
+  flyTo?: { lng: number; lat: number } | null;
 };
 
 function toGeoJSON(events: SketchMapEvent[]): GeoJSON.FeatureCollection {
@@ -43,7 +44,7 @@ const UNCLUSTERED_COUNT_LAYER = "event-point-count";
 const CLUSTER_LAYER = "event-clusters";
 const CLUSTER_COUNT_LAYER = "cluster-count";
 
-export function SketchMap({ events, onSelectEvents }: Props) {
+export function SketchMap({ events, onSelectEvents, flyTo }: Props) {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<maplibregl.Map | null>(null);
   const eventsRef = useRef(events);
@@ -213,6 +214,12 @@ export function SketchMap({ events, onSelectEvents }: Props) {
       source.setData(toGeoJSON(events));
     }
   }, [events]);
+
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || !flyTo) return;
+    map.flyTo({ center: [flyTo.lng, flyTo.lat], zoom: 15 });
+  }, [flyTo]);
 
   return <div ref={containerRef} className="w-full h-full" />;
 }
