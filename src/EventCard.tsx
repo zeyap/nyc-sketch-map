@@ -81,7 +81,7 @@ export function EventCard({ events, rank, tiedWith, onClose }: Props) {
   const rankInfo = rank != null ? RANK_LABELS[rank] : undefined;
 
   return (
-    <div className="absolute bottom-6 left-4 right-0 z-20 pb-[env(safe-area-inset-bottom)]">
+    <div className="absolute bottom-6 left-0 right-0 z-20 pb-[env(safe-area-inset-bottom)]">
       {isMultiple && (
         <div className="flex items-center justify-between mb-2 px-5 gap-2">
           <div className="flex items-center gap-2">
@@ -106,27 +106,29 @@ export function EventCard({ events, rank, tiedWith, onClose }: Props) {
         </div>
       )}
 
-      <div
-        className={`flex gap-3 ${
-          isMultiple
-            ? "overflow-x-auto snap-x snap-mandatory pb-2"
-            : ""
-        }`}
-      >
-        {events.map((event, i) => (
-          <div key={event.id} className="relative">
-            {!isMultiple && (
-              <button
-                onClick={onClose}
-                className="absolute top-2 right-3 text-gray-400 hover:text-gray-600 text-lg cursor-pointer z-10"
-              >
-                &times;
-              </button>
-            )}
-            <SingleCard event={event} />
+      {isMultiple ? (
+        <div className="overflow-x-auto snap-x snap-mandatory pb-2" style={{ scrollPaddingLeft: '1rem' }}>
+          <div className="flex gap-3 w-max px-4">
+            {events.map((event) => (
+              <div key={event.id} className="flex-shrink-0">
+                <SingleCard event={event} />
+              </div>
+            ))}
           </div>
-        ))}
-      </div>
+        </div>
+      ) : (
+        <div className="pl-4">
+          <div className="relative inline-block">
+            <button
+              onClick={onClose}
+              className="absolute top-2 right-3 text-gray-400 hover:text-gray-600 text-lg cursor-pointer z-10"
+            >
+              &times;
+            </button>
+            <SingleCard event={events[0]} />
+          </div>
+        </div>
+      )}
     </div>
   );
 }
