@@ -92,7 +92,7 @@ export function EventCard({ events, rank, tiedWith, onClose }: Props) {
               <span className="text-xs text-amber-700 bg-amber-50/90 px-2 py-0.5 rounded-full">
                 {rankInfo.icon} {rankInfo.label}
                 {tiedWith != null && tiedWith > 0 && (
-                  <span className="text-amber-500"> (tied with {tiedWith} other{tiedWith > 1 ? "s" : ""})</span>
+                  <span className="text-amber-500"> ({tiedWith + 1}-way tie)</span>
                 )}
               </span>
             )}
