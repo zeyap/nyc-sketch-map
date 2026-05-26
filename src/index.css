@@ -1,7 +1,10 @@
 @import "tailwindcss";
 @import "maplibre-gl/dist/maplibre-gl.css";
 
-body {
+html, body {
   margin: 0;
+  padding: 0;
   font-family: "Inter", system-ui, -apple-system, sans-serif;
+  overscroll-behavior: none;
 }
+

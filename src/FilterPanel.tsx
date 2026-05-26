@@ -35,7 +35,7 @@ export function FilterPanel({ filters, onChange, events, filteredCount, onSelect
   }, [events]);
 
   return (
-    <div className="absolute top-4 left-4 z-10 w-72">
+    <div className="absolute top-[calc(1rem+env(safe-area-inset-top))] left-4 z-10 w-72">
     <div className="bg-white/50 backdrop-blur-sm rounded-xl shadow-lg p-4">
       <div
         className="flex items-center justify-between cursor-pointer"
