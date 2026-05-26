@@ -62,7 +62,7 @@ export function SketchMap({ events, onSelectEvents, flyTo }: Props) {
       zoom: 11,
       minZoom: 9,
       maxZoom: 18,
-      attributionControl: true,
+      attributionControl: {},
     });
 
     map.addControl(new maplibregl.NavigationControl(), "bottom-right");
