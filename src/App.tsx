@@ -46,6 +46,47 @@ function App() {
     return result;
   }, [events, filters]);
 
+  const locationRanks = useMemo(() => {
+    const counts = new Map<string, number>();
+    for (const e of filtered) {
+      if (e.lat == null || e.lng == null) continue;
+      const key = `${e.lat},${e.lng}`;
+      counts.set(key, (counts.get(key) ?? 0) + 1);
+    }
+    const sorted = [...counts.entries()]
+      .filter(([, c]) => c > 1)
+      .sort((a, b) => b[1] - a[1]);
+
+    const tiesPerCount = new Map<number, number>();
+    for (const [, count] of sorted) {
+      tiesPerCount.set(count, (tiesPerCount.get(count) ?? 0) + 1);
+    }
+
+    const ranks = new Map<string, { rank: number; tiedWith: number }>();
+    let rank = 0;
+    let prevCount = -1;
+    for (const [key, count] of sorted) {
+      if (count !== prevCount) {
+        rank++;
+        prevCount = count;
+      }
+      if (rank > 3) break;
+      ranks.set(key, { rank, tiedWith: tiesPerCount.get(count)! - 1 });
+    }
+    return ranks;
+  }, [filtered]);
+
+  const selectedRankInfo = useMemo(() => {
+    if (selectedEvents.length < 2) return undefined;
+    const first = selectedEvents[0];
+    if (first.lat == null || first.lng == null) return undefined;
+    const allSameLocation = selectedEvents.every(
+      (e) => e.lat === first.lat && e.lng === first.lng
+    );
+    if (!allSameLocation) return undefined;
+    return locationRanks.get(`${first.lat},${first.lng}`);
+  }, [selectedEvents, locationRanks]);
+
   const handleSelectEvents = useCallback((evts: SketchMapEvent[]) => {
     setSelectedEvents(evts);
   }, []);
@@ -70,6 +111,8 @@ function App() {
       {selectedEvents.length > 0 && (
         <EventCard
           events={selectedEvents}
+          rank={selectedRankInfo?.rank}
+          tiedWith={selectedRankInfo?.tiedWith}
           onClose={() => setSelectedEvents([])}
         />
       )}
