@@ -81,7 +81,7 @@ export function EventCard({ events, rank, tiedWith, onClose }: Props) {
   const rankInfo = rank != null ? RANK_LABELS[rank] : undefined;
 
   return (
-    <div className="absolute bottom-6 left-1/2 -translate-x-1/2 z-20 max-w-[calc(100vw-2rem)]">
+    <div className="absolute bottom-6 left-1/2 -translate-x-1/2 z-20 max-w-[calc(100vw-2rem)] pb-[env(safe-area-inset-bottom)]">
       {isMultiple && (
         <div className="flex items-center justify-between mb-2 px-1 gap-2">
           <div className="flex items-center gap-2">

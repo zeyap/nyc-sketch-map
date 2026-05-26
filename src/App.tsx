@@ -109,7 +109,7 @@ function App() {
   }
 
   return (
-    <div className="h-screen w-screen relative">
+    <div className="h-[100dvh] w-screen relative">
       <SketchMap events={filtered} onSelectEvents={handleSelectEvents} flyTo={flyTo} />
       <FilterPanel
         filters={filters}
