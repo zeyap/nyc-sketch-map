@@ -3,7 +3,14 @@ import { SEASON_COLORS } from "./colors";
 
 type Props = {
   events: SketchMapEvent[];
+  rank?: number;
   onClose: () => void;
+};
+
+const RANK_LABELS: Record<number, { icon: string; label: string }> = {
+  1: { icon: "🥇", label: "Most sketched spot" },
+  2: { icon: "🥈", label: "2nd most sketched" },
+  3: { icon: "🥉", label: "3rd most sketched" },
 };
 
 function SingleCard({ event }: { event: SketchMapEvent }) {
@@ -68,16 +75,24 @@ function SingleCard({ event }: { event: SketchMapEvent }) {
   );
 }
 
-export function EventCard({ events, onClose }: Props) {
+export function EventCard({ events, rank, onClose }: Props) {
   const isMultiple = events.length > 1;
+  const rankInfo = rank != null ? RANK_LABELS[rank] : undefined;
 
   return (
     <div className="absolute bottom-6 left-1/2 -translate-x-1/2 z-20 max-w-[calc(100vw-2rem)]">
       {isMultiple && (
-        <div className="flex items-center justify-between mb-2 px-1">
-          <span className="text-xs text-gray-500 bg-white/90 px-2 py-0.5 rounded-full">
-            {events.length} events at this location
-          </span>
+        <div className="flex items-center justify-between mb-2 px-1 gap-2">
+          <div className="flex items-center gap-2">
+            <span className="text-xs text-gray-500 bg-white/90 px-2 py-0.5 rounded-full">
+              {events.length} events at this location
+            </span>
+            {rankInfo && (
+              <span className="text-xs text-amber-700 bg-amber-50/90 px-2 py-0.5 rounded-full">
+                {rankInfo.icon} {rankInfo.label}
+              </span>
+            )}
+          </div>
           <button
             onClick={onClose}
             className="text-gray-500 hover:text-gray-700 text-sm bg-white/90 px-2 py-0.5 rounded-full cursor-pointer"
