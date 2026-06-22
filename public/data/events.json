@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-15T15:38:13.260Z",
+  "generatedAt": "2026-06-22T15:14:02.551Z",
   "range": {
-    "from": "2024-06-15",
-    "to": "2026-06-15"
+    "from": "2024-06-22",
+    "to": "2026-06-22"
   },
   "source": "google_calendar",
   "events": [
@@ -90,6 +90,20 @@
         "type": "google_calendar",
         "title": "Joint Weekday and Westchester Sketchers",
         "googleEventId": "3ahh9ctrc4ujadltviv0htge1j@google.com"
+      }
+    },
+    {
+      "id": "gfpo9o0sbrkul3ir1nk92kq10k@google.com",
+      "title": "Workshop: Forget the Camera! Capturing Memory in Watercolor with Alyssa Esteban",
+      "date": "2026-08-01",
+      "year": 2026,
+      "month": 8,
+      "season": "summer",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop: Forget the Camera! Capturing Memory in Watercolor with Alyssa Esteban",
+        "googleEventId": "gfpo9o0sbrkul3ir1nk92kq10k@google.com"
       }
     },
     {
@@ -338,7 +352,7 @@
     },
     {
       "id": "7jfvnuhkb9nnh40isb5mir2isc@google.com",
-      "title": "Weekend Sketchers: Greenwood Cemetery",
+      "title": "Weekend Sketchers: Green-Wood Cemetery",
       "date": "2026-06-20",
       "year": 2026,
       "month": 6,
@@ -350,7 +364,7 @@
       "geocodeStatus": "auto",
       "source": {
         "type": "google_calendar",
-        "title": "Weekend Sketchers: Greenwood Cemetery",
+        "title": "Weekend Sketchers: Green-Wood Cemetery",
         "googleEventId": "7jfvnuhkb9nnh40isb5mir2isc@google.com"
       }
     },
@@ -424,24 +438,6 @@
       }
     },
     {
-      "id": "g83p0j76eg8tiibkdeb60rj690@google.com",
-      "title": "Workshop: Gesture Painting with Rene Barkette",
-      "date": "2026-06-06",
-      "year": 2026,
-      "month": 6,
-      "season": "summer",
-      "locationText": "Madison Square Park",
-      "lat": 40.742,
-      "lng": -73.9876,
-      "borough": "Manhattan",
-      "geocodeStatus": "manual",
-      "source": {
-        "type": "google_calendar",
-        "title": "Workshop: Gesture Painting with Rene Barkette",
-        "googleEventId": "g83p0j76eg8tiibkdeb60rj690@google.com"
-      }
-    },
-    {
       "id": "7a99uovuo4bl1tg9lp4ag14bfd@google.com",
       "title": "Weekend Sketchers: Conservatory Garden, Central Park",
       "date": "2026-06-06",
@@ -457,6 +453,24 @@
         "type": "google_calendar",
         "title": "Weekend Sketchers: Conservatory Garden, Central Park",
         "googleEventId": "7a99uovuo4bl1tg9lp4ag14bfd@google.com"
+      }
+    },
+    {
+      "id": "g83p0j76eg8tiibkdeb60rj690@google.com",
+      "title": "Workshop: Gesture Painting with Rene Barkette",
+      "date": "2026-06-06",
+      "year": 2026,
+      "month": 6,
+      "season": "summer",
+      "locationText": "Madison Square Park",
+      "lat": 40.742,
+      "lng": -73.9876,
+      "borough": "Manhattan",
+      "geocodeStatus": "manual",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop: Gesture Painting with Rene Barkette",
+        "googleEventId": "g83p0j76eg8tiibkdeb60rj690@google.com"
       }
     },
     {
@@ -496,6 +510,20 @@
       }
     },
     {
+      "id": "5b44pmkh77llqbidj705m4dofe@google.com",
+      "title": "Weekend Sketchers: Fort Greene and BAM",
+      "date": "2026-05-30",
+      "year": 2026,
+      "month": 5,
+      "season": "spring",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Fort Greene and BAM",
+        "googleEventId": "5b44pmkh77llqbidj705m4dofe@google.com"
+      }
+    },
+    {
       "id": "4kg0839lvac4k5f1r55upuom8j@google.com",
       "title": "WESTCHESTER SKETCHERS at Caramoor's Welcome Summer Opening Day Event in Katonah",
       "date": "2026-05-30",
@@ -508,20 +536,6 @@
         "title": "WESTCHESTER SKETCHERS at Caramoor's Welcome Summer Opening Day Event in Katonah",
         "googleEventId": "4kg0839lvac4k5f1r55upuom8j@google.com",
         "url": "https://www.nycurbansketchers.org/2026/05/saturday-may-30-2026-westchester.html"
-      }
-    },
-    {
-      "id": "5b44pmkh77llqbidj705m4dofe@google.com",
-      "title": "Weekend Sketchers: Fort Greene and BAM",
-      "date": "2026-05-30",
-      "year": 2026,
-      "month": 5,
-      "season": "spring",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Weekend Sketchers: Fort Greene and BAM",
-        "googleEventId": "5b44pmkh77llqbidj705m4dofe@google.com"
       }
     },
     {
@@ -729,24 +743,6 @@
       }
     },
     {
-      "id": "7vqiiavarn2cqci9pbvseicr2j@google.com",
-      "title": "Workshop: Building a Spiral of Attention with Nishant Jain",
-      "date": "2026-05-02",
-      "year": 2026,
-      "month": 5,
-      "season": "spring",
-      "locationText": "Bethesda Fountain, New York, NY 10024, USA",
-      "lat": 40.7736,
-      "lng": -73.9712,
-      "borough": "Manhattan",
-      "geocodeStatus": "manual",
-      "source": {
-        "type": "google_calendar",
-        "title": "Workshop: Building a Spiral of Attention with Nishant Jain",
-        "googleEventId": "7vqiiavarn2cqci9pbvseicr2j@google.com"
-      }
-    },
-    {
       "id": "55kr4q79klr8iu1jrmg852kial@google.com",
       "title": "Weekend Sketchers: Central Park: Bandshell Area and Dance Skaters",
       "date": "2026-05-02",
@@ -762,6 +758,24 @@
         "type": "google_calendar",
         "title": "Weekend Sketchers: Central Park: Bandshell Area and Dance Skaters",
         "googleEventId": "55kr4q79klr8iu1jrmg852kial@google.com"
+      }
+    },
+    {
+      "id": "7vqiiavarn2cqci9pbvseicr2j@google.com",
+      "title": "Workshop: Building a Spiral of Attention with Nishant Jain",
+      "date": "2026-05-02",
+      "year": 2026,
+      "month": 5,
+      "season": "spring",
+      "locationText": "Bethesda Fountain, New York, NY 10024, USA",
+      "lat": 40.7736,
+      "lng": -73.9712,
+      "borough": "Manhattan",
+      "geocodeStatus": "manual",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop: Building a Spiral of Attention with Nishant Jain",
+        "googleEventId": "7vqiiavarn2cqci9pbvseicr2j@google.com"
       }
     },
     {
@@ -2542,6 +2556,20 @@
       }
     },
     {
+      "id": "11kjaodcracf26vmon4uab8s4v@google.com",
+      "title": "Workshop Charles Cannizzaro",
+      "date": "2025-09-20",
+      "year": 2025,
+      "month": 9,
+      "season": "fall",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop Charles Cannizzaro",
+        "googleEventId": "11kjaodcracf26vmon4uab8s4v@google.com"
+      }
+    },
+    {
       "id": "5gjnjt2d10o5ps44ojtm4cvbnk@google.com",
       "title": "Westchester Sketchers at Herb Fair and Market at Caramoor in Katonah",
       "date": "2025-09-20",
@@ -2554,20 +2582,6 @@
         "title": "Westchester Sketchers at Herb Fair and Market at Caramoor in Katonah",
         "googleEventId": "5gjnjt2d10o5ps44ojtm4cvbnk@google.com",
         "url": "https://www.nycurbansketchers.org/2025/09/saturday-september-20-2025-westchester.html"
-      }
-    },
-    {
-      "id": "11kjaodcracf26vmon4uab8s4v@google.com",
-      "title": "Workshop Charles Cannizzaro",
-      "date": "2025-09-20",
-      "year": 2025,
-      "month": 9,
-      "season": "fall",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Workshop Charles Cannizzaro",
-        "googleEventId": "11kjaodcracf26vmon4uab8s4v@google.com"
       }
     },
     {
@@ -3174,6 +3188,21 @@
       }
     },
     {
+      "id": "6f7fe99i6kgq087bbec4b3h9h0@google.com",
+      "title": "Westchester Sketchers at the Hammond Museum and Japanese Stroll Gardens",
+      "date": "2025-06-21",
+      "year": 2025,
+      "month": 6,
+      "season": "summer",
+      "geocodeStatus": "needs_review",
+      "source": {
+        "type": "google_calendar",
+        "title": "Westchester Sketchers at the Hammond Museum and Japanese Stroll Gardens",
+        "googleEventId": "6f7fe99i6kgq087bbec4b3h9h0@google.com",
+        "url": "https://www.nycurbansketchers.org/2025/06/saturday-june-21-2025-westchester.html"
+      }
+    },
+    {
       "id": "572ns47m5eiboea8kumrbsnr8r@google.com",
       "title": "Sketch The Vessel",
       "date": "2025-06-21",
@@ -3190,21 +3219,6 @@
         "title": "Sketch The Vessel",
         "googleEventId": "572ns47m5eiboea8kumrbsnr8r@google.com",
         "url": "https://www.nycurbansketchers.org/2025/06/saturday-june-21-vessel-shed.html"
-      }
-    },
-    {
-      "id": "6f7fe99i6kgq087bbec4b3h9h0@google.com",
-      "title": "Westchester Sketchers at the Hammond Museum and Japanese Stroll Gardens",
-      "date": "2025-06-21",
-      "year": 2025,
-      "month": 6,
-      "season": "summer",
-      "geocodeStatus": "needs_review",
-      "source": {
-        "type": "google_calendar",
-        "title": "Westchester Sketchers at the Hammond Museum and Japanese Stroll Gardens",
-        "googleEventId": "6f7fe99i6kgq087bbec4b3h9h0@google.com",
-        "url": "https://www.nycurbansketchers.org/2025/06/saturday-june-21-2025-westchester.html"
       }
     },
     {
@@ -3313,21 +3327,6 @@
       }
     },
     {
-      "id": "0a7vis5fgobk0eti2q575h9ihn@google.com",
-      "title": "Westchester Sketchers at Caramoor Open House/Kick-off day",
-      "date": "2025-06-01",
-      "year": 2025,
-      "month": 6,
-      "season": "summer",
-      "geocodeStatus": "needs_review",
-      "source": {
-        "type": "google_calendar",
-        "title": "Westchester Sketchers at Caramoor Open House/Kick-off day",
-        "googleEventId": "0a7vis5fgobk0eti2q575h9ihn@google.com",
-        "url": "https://www.nycurbansketchers.org/2025/05/sunday-june-1-2025-westchester.html"
-      }
-    },
-    {
       "id": "2fsc53nsqs8kgg72htkrid45oq@google.com",
       "title": "Domino Park",
       "date": "2025-06-01",
@@ -3343,6 +3342,21 @@
         "type": "google_calendar",
         "title": "Domino Park",
         "googleEventId": "2fsc53nsqs8kgg72htkrid45oq@google.com"
+      }
+    },
+    {
+      "id": "0a7vis5fgobk0eti2q575h9ihn@google.com",
+      "title": "Westchester Sketchers at Caramoor Open House/Kick-off day",
+      "date": "2025-06-01",
+      "year": 2025,
+      "month": 6,
+      "season": "summer",
+      "geocodeStatus": "needs_review",
+      "source": {
+        "type": "google_calendar",
+        "title": "Westchester Sketchers at Caramoor Open House/Kick-off day",
+        "googleEventId": "0a7vis5fgobk0eti2q575h9ihn@google.com",
+        "url": "https://www.nycurbansketchers.org/2025/05/sunday-june-1-2025-westchester.html"
       }
     },
     {
@@ -4608,24 +4622,6 @@
       }
     },
     {
-      "id": "5nm4065jk8pha2fo08rcph899b@google.com",
-      "title": "Seltzer Museum",
-      "date": "2024-12-04",
-      "year": 2024,
-      "month": 12,
-      "season": "winter",
-      "locationText": "Seltzer Museum",
-      "lat": 40.7185,
-      "lng": -73.99,
-      "borough": "Manhattan",
-      "geocodeStatus": "auto",
-      "source": {
-        "type": "google_calendar",
-        "title": "Seltzer Museum",
-        "googleEventId": "5nm4065jk8pha2fo08rcph899b@google.com"
-      }
-    },
-    {
       "id": "3i664fkcotci4nkskha8btn8s2@google.com",
       "title": "Westchester Sketchers at Cast Hall",
       "date": "2024-12-04",
@@ -4642,6 +4638,24 @@
         "title": "Westchester Sketchers at Cast Hall",
         "googleEventId": "3i664fkcotci4nkskha8btn8s2@google.com",
         "url": "https://www.nycurbansketchers.org/2024/11/wednesday-december-4-2024-westchester.html"
+      }
+    },
+    {
+      "id": "5nm4065jk8pha2fo08rcph899b@google.com",
+      "title": "Seltzer Museum",
+      "date": "2024-12-04",
+      "year": 2024,
+      "month": 12,
+      "season": "winter",
+      "locationText": "Seltzer Museum",
+      "lat": 40.7185,
+      "lng": -73.99,
+      "borough": "Manhattan",
+      "geocodeStatus": "auto",
+      "source": {
+        "type": "google_calendar",
+        "title": "Seltzer Museum",
+        "googleEventId": "5nm4065jk8pha2fo08rcph899b@google.com"
       }
     },
     {
@@ -5016,20 +5030,6 @@
       }
     },
     {
-      "id": "4q8c6rn99tt2q7sd6p4fgm1kiq@google.com",
-      "title": "Sketch the Chinese Scholar’s Garden",
-      "date": "2024-10-05",
-      "year": 2024,
-      "month": 10,
-      "season": "fall",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Sketch the Chinese Scholar’s Garden",
-        "googleEventId": "4q8c6rn99tt2q7sd6p4fgm1kiq@google.com"
-      }
-    },
-    {
       "id": "49i2o8i7qr8l13ne7d94qdpj35@google.com",
       "title": "Westchester Sketchers Plein Air Day at the Bronxville Library",
       "date": "2024-10-05",
@@ -5042,6 +5042,20 @@
         "title": "Westchester Sketchers Plein Air Day at the Bronxville Library",
         "googleEventId": "49i2o8i7qr8l13ne7d94qdpj35@google.com",
         "url": "https://www.nycurbansketchers.org/2024/10/saturday-october-5-2024-westchester.html"
+      }
+    },
+    {
+      "id": "4q8c6rn99tt2q7sd6p4fgm1kiq@google.com",
+      "title": "Sketch the Chinese Scholar’s Garden",
+      "date": "2024-10-05",
+      "year": 2024,
+      "month": 10,
+      "season": "fall",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Sketch the Chinese Scholar’s Garden",
+        "googleEventId": "4q8c6rn99tt2q7sd6p4fgm1kiq@google.com"
       }
     },
     {
@@ -5351,6 +5365,20 @@
       }
     },
     {
+      "id": "3au4lcmnsonutb3jdgqqkggd9t@google.com",
+      "title": "Katie Woodward Workshop-Reflections",
+      "date": "2024-08-10",
+      "year": 2024,
+      "month": 8,
+      "season": "summer",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Katie Woodward Workshop-Reflections",
+        "googleEventId": "3au4lcmnsonutb3jdgqqkggd9t@google.com"
+      }
+    },
+    {
       "id": "13gma8itg3favj6o6qacf6nqsh@google.com",
       "title": "Museum of Natural History",
       "date": "2024-08-10",
@@ -5366,20 +5394,6 @@
         "type": "google_calendar",
         "title": "Museum of Natural History",
         "googleEventId": "13gma8itg3favj6o6qacf6nqsh@google.com"
-      }
-    },
-    {
-      "id": "3au4lcmnsonutb3jdgqqkggd9t@google.com",
-      "title": "Katie Woodward Workshop-Reflections",
-      "date": "2024-08-10",
-      "year": 2024,
-      "month": 8,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Katie Woodward Workshop-Reflections",
-        "googleEventId": "3au4lcmnsonutb3jdgqqkggd9t@google.com"
       }
     },
     {
@@ -5583,20 +5597,6 @@
       }
     },
     {
-      "id": "2glba6aq7khhb9e79n0dbkc0ug@google.com",
-      "title": "Valentine Valerian House",
-      "date": "2024-07-10",
-      "year": 2024,
-      "month": 7,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Valentine Valerian House",
-        "googleEventId": "2glba6aq7khhb9e79n0dbkc0ug@google.com"
-      }
-    },
-    {
       "id": "4fi4ni98liete4vhpdak4g3ouu@google.com",
       "title": "Westchester Sketchers at Stonecrop Gardens, Cold Spring - with LHVPAP",
       "date": "2024-07-10",
@@ -5611,18 +5611,17 @@
       }
     },
     {
-      "id": "770h8r33aul4h0shorgt1io4q6@google.com",
-      "title": "Westchester Sketchers at the City of Rye Village Green",
-      "date": "2024-06-29",
+      "id": "2glba6aq7khhb9e79n0dbkc0ug@google.com",
+      "title": "Valentine Valerian House",
+      "date": "2024-07-10",
       "year": 2024,
-      "month": 6,
+      "month": 7,
       "season": "summer",
-      "geocodeStatus": "needs_review",
+      "geocodeStatus": "failed",
       "source": {
         "type": "google_calendar",
-        "title": "Westchester Sketchers at the City of Rye Village Green",
-        "googleEventId": "770h8r33aul4h0shorgt1io4q6@google.com",
-        "url": "https://www.nycurbansketchers.org/2024/06/saturday-june-29-2024-westchester.html"
+        "title": "Valentine Valerian House",
+        "googleEventId": "2glba6aq7khhb9e79n0dbkc0ug@google.com"
       }
     },
     {
@@ -5644,6 +5643,21 @@
       }
     },
     {
+      "id": "770h8r33aul4h0shorgt1io4q6@google.com",
+      "title": "Westchester Sketchers at the City of Rye Village Green",
+      "date": "2024-06-29",
+      "year": 2024,
+      "month": 6,
+      "season": "summer",
+      "geocodeStatus": "needs_review",
+      "source": {
+        "type": "google_calendar",
+        "title": "Westchester Sketchers at the City of Rye Village Green",
+        "googleEventId": "770h8r33aul4h0shorgt1io4q6@google.com",
+        "url": "https://www.nycurbansketchers.org/2024/06/saturday-june-29-2024-westchester.html"
+      }
+    },
+    {
       "id": "2r35tm233aen304j5qdpq8sn75@google.com",
       "title": "Wild Couch Party",
       "date": "2024-06-26",
@@ -5655,38 +5669,6 @@
         "type": "google_calendar",
         "title": "Wild Couch Party",
         "googleEventId": "2r35tm233aen304j5qdpq8sn75@google.com"
-      }
-    },
-    {
-      "id": "0fqmc7fgi1surqri57stgljmq8@google.com",
-      "title": "Westchester Sketchers at Five Islands Park in New Rochelle",
-      "date": "2024-06-20",
-      "year": 2024,
-      "month": 6,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Westchester Sketchers at Five Islands Park in New Rochelle",
-        "googleEventId": "0fqmc7fgi1surqri57stgljmq8@google.com"
-      }
-    },
-    {
-      "id": "4141qqf2hoh16515ftvqenn4l4@google.com",
-      "title": "Chess and Checker House in Central Park",
-      "date": "2024-06-19",
-      "year": 2024,
-      "month": 6,
-      "season": "summer",
-      "locationText": "Chess & Checker House, Central Park",
-      "lat": 40.7695,
-      "lng": -73.9747,
-      "borough": "Manhattan",
-      "geocodeStatus": "auto",
-      "source": {
-        "type": "google_calendar",
-        "title": "Chess and Checker House in Central Park",
-        "googleEventId": "4141qqf2hoh16515ftvqenn4l4@google.com"
       }
     }
   ]
