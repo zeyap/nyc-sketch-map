@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-06T13:38:49.494Z",
+  "generatedAt": "2026-07-13T12:26:28.155Z",
   "range": {
-    "from": "2024-07-06",
-    "to": "2026-07-06"
+    "from": "2024-07-13",
+    "to": "2026-07-13"
   },
   "source": "google_calendar",
   "events": [
@@ -189,8 +189,8 @@
       }
     },
     {
-      "id": "796c1gaeg0ite1dg040cr3646b@google.com",
-      "title": "added! Workshop: Loose Colored Lines with Santi Sallés",
+      "id": "jqjjq3k5lurffj7kgtbtdapmu4@google.com",
+      "title": "Workshop: Loose Colored Lines with Santi Sallés",
       "date": "2026-07-18",
       "year": 2026,
       "month": 7,
@@ -198,8 +198,8 @@
       "geocodeStatus": "failed",
       "source": {
         "type": "google_calendar",
-        "title": "added! Workshop: Loose Colored Lines with Santi Sallés",
-        "googleEventId": "796c1gaeg0ite1dg040cr3646b@google.com"
+        "title": "Workshop: Loose Colored Lines with Santi Sallés",
+        "googleEventId": "jqjjq3k5lurffj7kgtbtdapmu4@google.com"
       }
     },
     {
@@ -217,8 +217,8 @@
       }
     },
     {
-      "id": "jqjjq3k5lurffj7kgtbtdapmu4@google.com",
-      "title": "Workshop: Loose Colored Lines with Santi Sallés",
+      "id": "796c1gaeg0ite1dg040cr3646b@google.com",
+      "title": "added! Workshop: Loose Colored Lines with Santi Sallés",
       "date": "2026-07-18",
       "year": 2026,
       "month": 7,
@@ -226,8 +226,23 @@
       "geocodeStatus": "failed",
       "source": {
         "type": "google_calendar",
-        "title": "Workshop: Loose Colored Lines with Santi Sallés",
-        "googleEventId": "jqjjq3k5lurffj7kgtbtdapmu4@google.com"
+        "title": "added! Workshop: Loose Colored Lines with Santi Sallés",
+        "googleEventId": "796c1gaeg0ite1dg040cr3646b@google.com"
+      }
+    },
+    {
+      "id": "5q1rlgf277t5c6kuis3k4vq7jq@google.com",
+      "title": "WESTCHESTER Sketchers at Muscoot Farm in Katonah",
+      "date": "2026-07-16",
+      "year": 2026,
+      "month": 7,
+      "season": "summer",
+      "geocodeStatus": "needs_review",
+      "source": {
+        "type": "google_calendar",
+        "title": "WESTCHESTER Sketchers at Muscoot Farm in Katonah",
+        "googleEventId": "5q1rlgf277t5c6kuis3k4vq7jq@google.com",
+        "url": "https://www.nycurbansketchers.org/2026/07/thursday-july-16-2026-westchester.html"
       }
     },
     {
@@ -250,7 +265,7 @@
     },
     {
       "id": "4igvovba0kr445s6g26fitts4p@google.com",
-      "title": "Weekend Sketchers: AMNH & The Historical, Outdoors",
+      "title": "Weekend Sketchers: Museum of Natural History and the UWS",
       "date": "2026-07-11",
       "year": 2026,
       "month": 7,
@@ -262,7 +277,7 @@
       "geocodeStatus": "auto",
       "source": {
         "type": "google_calendar",
-        "title": "Weekend Sketchers: AMNH & The Historical, Outdoors",
+        "title": "Weekend Sketchers: Museum of Natural History and the UWS",
         "googleEventId": "4igvovba0kr445s6g26fitts4p@google.com"
       }
     },
@@ -273,11 +288,12 @@
       "year": 2026,
       "month": 7,
       "season": "summer",
-      "geocodeStatus": "failed",
+      "geocodeStatus": "needs_review",
       "source": {
         "type": "google_calendar",
         "title": "Westchester Sketchers at the Museum of Contemporary Art CT (MoCA/CT)",
-        "googleEventId": "14db2j3vnct2f9trcnf9pv4koh@google.com"
+        "googleEventId": "14db2j3vnct2f9trcnf9pv4koh@google.com",
+        "url": "https://www.nycurbansketchers.org/2026/07/thursday-july-9-2026-westchester.html"
       }
     },
     {
@@ -401,20 +417,6 @@
       }
     },
     {
-      "id": "9m0njaopqc8bhp7cmr1jkm3i5o@google.com",
-      "title": "Workshop: Make An Accordion Sketchbook with Frieda Christofides",
-      "date": "2026-06-20",
-      "year": 2026,
-      "month": 6,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Workshop: Make An Accordion Sketchbook with Frieda Christofides",
-        "googleEventId": "9m0njaopqc8bhp7cmr1jkm3i5o@google.com"
-      }
-    },
-    {
       "id": "7jfvnuhkb9nnh40isb5mir2isc@google.com",
       "title": "Weekend Sketchers: Green-Wood Cemetery",
       "date": "2026-06-20",
@@ -430,6 +432,20 @@
         "type": "google_calendar",
         "title": "Weekend Sketchers: Green-Wood Cemetery",
         "googleEventId": "7jfvnuhkb9nnh40isb5mir2isc@google.com"
+      }
+    },
+    {
+      "id": "9m0njaopqc8bhp7cmr1jkm3i5o@google.com",
+      "title": "Workshop: Make An Accordion Sketchbook with Frieda Christofides",
+      "date": "2026-06-20",
+      "year": 2026,
+      "month": 6,
+      "season": "summer",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop: Make An Accordion Sketchbook with Frieda Christofides",
+        "googleEventId": "9m0njaopqc8bhp7cmr1jkm3i5o@google.com"
       }
     },
     {
@@ -556,20 +572,6 @@
       }
     },
     {
-      "id": "5b44pmkh77llqbidj705m4dofe@google.com",
-      "title": "Weekend Sketchers: Fort Greene and BAM",
-      "date": "2026-05-30",
-      "year": 2026,
-      "month": 5,
-      "season": "spring",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Weekend Sketchers: Fort Greene and BAM",
-        "googleEventId": "5b44pmkh77llqbidj705m4dofe@google.com"
-      }
-    },
-    {
       "id": "moa2rgm222c0bk5gt6t48su3t4@google.com",
       "title": "Workshop: Look Up and Sketch Something New!",
       "date": "2026-05-30",
@@ -585,6 +587,20 @@
         "type": "google_calendar",
         "title": "Workshop: Look Up and Sketch Something New!",
         "googleEventId": "moa2rgm222c0bk5gt6t48su3t4@google.com"
+      }
+    },
+    {
+      "id": "5b44pmkh77llqbidj705m4dofe@google.com",
+      "title": "Weekend Sketchers: Fort Greene and BAM",
+      "date": "2026-05-30",
+      "year": 2026,
+      "month": 5,
+      "season": "spring",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Fort Greene and BAM",
+        "googleEventId": "5b44pmkh77llqbidj705m4dofe@google.com"
       }
     },
     {
@@ -2620,6 +2636,20 @@
       }
     },
     {
+      "id": "11kjaodcracf26vmon4uab8s4v@google.com",
+      "title": "Workshop Charles Cannizzaro",
+      "date": "2025-09-20",
+      "year": 2025,
+      "month": 9,
+      "season": "fall",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop Charles Cannizzaro",
+        "googleEventId": "11kjaodcracf26vmon4uab8s4v@google.com"
+      }
+    },
+    {
       "id": "5gjnjt2d10o5ps44ojtm4cvbnk@google.com",
       "title": "Westchester Sketchers at Herb Fair and Market at Caramoor in Katonah",
       "date": "2025-09-20",
@@ -2632,20 +2662,6 @@
         "title": "Westchester Sketchers at Herb Fair and Market at Caramoor in Katonah",
         "googleEventId": "5gjnjt2d10o5ps44ojtm4cvbnk@google.com",
         "url": "https://www.nycurbansketchers.org/2025/09/saturday-september-20-2025-westchester.html"
-      }
-    },
-    {
-      "id": "11kjaodcracf26vmon4uab8s4v@google.com",
-      "title": "Workshop Charles Cannizzaro",
-      "date": "2025-09-20",
-      "year": 2025,
-      "month": 9,
-      "season": "fall",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Workshop Charles Cannizzaro",
-        "googleEventId": "11kjaodcracf26vmon4uab8s4v@google.com"
       }
     },
     {
@@ -3238,20 +3254,6 @@
       }
     },
     {
-      "id": "1ov3eimh0q1c409udpdbe7vt20@google.com",
-      "title": "Workshop Danna Feintuch",
-      "date": "2025-06-21",
-      "year": 2025,
-      "month": 6,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Workshop Danna Feintuch",
-        "googleEventId": "1ov3eimh0q1c409udpdbe7vt20@google.com"
-      }
-    },
-    {
       "id": "6f7fe99i6kgq087bbec4b3h9h0@google.com",
       "title": "Westchester Sketchers at the Hammond Museum and Japanese Stroll Gardens",
       "date": "2025-06-21",
@@ -3283,6 +3285,20 @@
         "title": "Sketch The Vessel",
         "googleEventId": "572ns47m5eiboea8kumrbsnr8r@google.com",
         "url": "https://www.nycurbansketchers.org/2025/06/saturday-june-21-vessel-shed.html"
+      }
+    },
+    {
+      "id": "1ov3eimh0q1c409udpdbe7vt20@google.com",
+      "title": "Workshop Danna Feintuch",
+      "date": "2025-06-21",
+      "year": 2025,
+      "month": 6,
+      "season": "summer",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop Danna Feintuch",
+        "googleEventId": "1ov3eimh0q1c409udpdbe7vt20@google.com"
       }
     },
     {
@@ -4686,24 +4702,6 @@
       }
     },
     {
-      "id": "5nm4065jk8pha2fo08rcph899b@google.com",
-      "title": "Seltzer Museum",
-      "date": "2024-12-04",
-      "year": 2024,
-      "month": 12,
-      "season": "winter",
-      "locationText": "Seltzer Museum",
-      "lat": 40.7185,
-      "lng": -73.99,
-      "borough": "Manhattan",
-      "geocodeStatus": "auto",
-      "source": {
-        "type": "google_calendar",
-        "title": "Seltzer Museum",
-        "googleEventId": "5nm4065jk8pha2fo08rcph899b@google.com"
-      }
-    },
-    {
       "id": "3i664fkcotci4nkskha8btn8s2@google.com",
       "title": "Westchester Sketchers at Cast Hall",
       "date": "2024-12-04",
@@ -4720,6 +4718,24 @@
         "title": "Westchester Sketchers at Cast Hall",
         "googleEventId": "3i664fkcotci4nkskha8btn8s2@google.com",
         "url": "https://www.nycurbansketchers.org/2024/11/wednesday-december-4-2024-westchester.html"
+      }
+    },
+    {
+      "id": "5nm4065jk8pha2fo08rcph899b@google.com",
+      "title": "Seltzer Museum",
+      "date": "2024-12-04",
+      "year": 2024,
+      "month": 12,
+      "season": "winter",
+      "locationText": "Seltzer Museum",
+      "lat": 40.7185,
+      "lng": -73.99,
+      "borough": "Manhattan",
+      "geocodeStatus": "auto",
+      "source": {
+        "type": "google_calendar",
+        "title": "Seltzer Museum",
+        "googleEventId": "5nm4065jk8pha2fo08rcph899b@google.com"
       }
     },
     {
@@ -5658,34 +5674,6 @@
         "type": "google_calendar",
         "title": "Sketch Red Hook",
         "googleEventId": "5cg26fr52ct1frpr9cmv5ntgd9@google.com"
-      }
-    },
-    {
-      "id": "2glba6aq7khhb9e79n0dbkc0ug@google.com",
-      "title": "Valentine Valerian House",
-      "date": "2024-07-10",
-      "year": 2024,
-      "month": 7,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Valentine Valerian House",
-        "googleEventId": "2glba6aq7khhb9e79n0dbkc0ug@google.com"
-      }
-    },
-    {
-      "id": "4fi4ni98liete4vhpdak4g3ouu@google.com",
-      "title": "Westchester Sketchers at Stonecrop Gardens, Cold Spring - with LHVPAP",
-      "date": "2024-07-10",
-      "year": 2024,
-      "month": 7,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Westchester Sketchers at Stonecrop Gardens, Cold Spring - with LHVPAP",
-        "googleEventId": "4fi4ni98liete4vhpdak4g3ouu@google.com"
       }
     }
   ]
