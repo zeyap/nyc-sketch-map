@@ -1,11 +1,97 @@
 {
-  "generatedAt": "2026-07-13T12:26:28.155Z",
+  "generatedAt": "2026-07-20T12:10:04.902Z",
   "range": {
-    "from": "2024-07-13",
-    "to": "2026-07-13"
+    "from": "2024-07-20",
+    "to": "2026-07-20"
   },
   "source": "google_calendar",
   "events": [
+    {
+      "id": "3ph7bfoq59g7rtcug8e37iv6fe@google.com",
+      "title": "Weekend Sketchers: Oyster Bay Long Island",
+      "date": "2026-09-26",
+      "year": 2026,
+      "month": 9,
+      "season": "fall",
+      "locationText": "Oyster Bay",
+      "lat": 40.871,
+      "lng": -73.5312,
+      "borough": "Long Island",
+      "geocodeStatus": "auto",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Oyster Bay Long Island",
+        "googleEventId": "3ph7bfoq59g7rtcug8e37iv6fe@google.com"
+      }
+    },
+    {
+      "id": "502bubtm15su3i1s2e1fgvktap@google.com",
+      "title": "Weekend Sketchers: Flushing Meadow Park",
+      "date": "2026-09-19",
+      "year": 2026,
+      "month": 9,
+      "season": "fall",
+      "locationText": "Flushing Meadows Corona Park",
+      "lat": 40.7464,
+      "lng": -73.8448,
+      "borough": "Queens",
+      "geocodeStatus": "auto",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Flushing Meadow Park",
+        "googleEventId": "502bubtm15su3i1s2e1fgvktap@google.com"
+      }
+    },
+    {
+      "id": "1h3a86iqniu0h5kvidb56ljb7j@google.com",
+      "title": "Weekend Sketchers: Bryant Park",
+      "date": "2026-09-12",
+      "year": 2026,
+      "month": 9,
+      "season": "fall",
+      "locationText": "Bryant Park",
+      "lat": 40.7536,
+      "lng": -73.9832,
+      "borough": "Manhattan",
+      "geocodeStatus": "auto",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Bryant Park",
+        "googleEventId": "1h3a86iqniu0h5kvidb56ljb7j@google.com"
+      }
+    },
+    {
+      "id": "34fq1kfu14kc3v05k6e33nftan@google.com",
+      "title": "Weekend Sketchers: Sunset Park, Brooklyn",
+      "date": "2026-09-05",
+      "year": 2026,
+      "month": 9,
+      "season": "fall",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Sunset Park, Brooklyn",
+        "googleEventId": "34fq1kfu14kc3v05k6e33nftan@google.com"
+      }
+    },
+    {
+      "id": "3hrju0lubs1jfnj2q4qh74gdhc@google.com",
+      "title": "Weekend Sketchers: Madison Square Park",
+      "date": "2026-08-29",
+      "year": 2026,
+      "month": 8,
+      "season": "summer",
+      "locationText": "Madison Square Park",
+      "lat": 40.742,
+      "lng": -73.9876,
+      "borough": "Manhattan",
+      "geocodeStatus": "auto",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Madison Square Park",
+        "googleEventId": "3hrju0lubs1jfnj2q4qh74gdhc@google.com"
+      }
+    },
     {
       "id": "6lhh80esfbl3dc5ejld0cak8vp@google.com",
       "title": "Weekday Sketchers ",
@@ -25,6 +111,24 @@
       }
     },
     {
+      "id": "1a3656kr2q39uvgmie7r285dul@google.com",
+      "title": "Weekend Sketchers: Domino Park",
+      "date": "2026-08-22",
+      "year": 2026,
+      "month": 8,
+      "season": "summer",
+      "locationText": "Domino Park",
+      "lat": 40.7137,
+      "lng": -73.9683,
+      "borough": "Brooklyn",
+      "geocodeStatus": "auto",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Domino Park",
+        "googleEventId": "1a3656kr2q39uvgmie7r285dul@google.com"
+      }
+    },
+    {
       "id": "7fmt2440718239pru8qksbjlnt@google.com",
       "title": "Weekday and Westchester Sketchers ",
       "date": "2026-08-19",
@@ -40,6 +144,34 @@
         "type": "google_calendar",
         "title": "Weekday and Westchester Sketchers ",
         "googleEventId": "7fmt2440718239pru8qksbjlnt@google.com"
+      }
+    },
+    {
+      "id": "2vrn28ma5vcs73os0v3tvje5cs@google.com",
+      "title": "WORKSHOP: Let it glow with Katie Woodward",
+      "date": "2026-08-15",
+      "year": 2026,
+      "month": 8,
+      "season": "summer",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "WORKSHOP: Let it glow with Katie Woodward",
+        "googleEventId": "2vrn28ma5vcs73os0v3tvje5cs@google.com"
+      }
+    },
+    {
+      "id": "6unfm6tbq6f9hoilakla5mh803@google.com",
+      "title": "Weekend Sketchers: Grant's Tomb/ Riverside Church",
+      "date": "2026-08-15",
+      "year": 2026,
+      "month": 8,
+      "season": "summer",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Grant's Tomb/ Riverside Church",
+        "googleEventId": "6unfm6tbq6f9hoilakla5mh803@google.com"
       }
     },
     {
@@ -75,6 +207,24 @@
       }
     },
     {
+      "id": "71h11muve0t6d05laudo77n27i@google.com",
+      "title": "Weekend Sketchers: Elizabeth Street Garden",
+      "date": "2026-08-08",
+      "year": 2026,
+      "month": 8,
+      "season": "summer",
+      "locationText": "Elizabeth Street Garden",
+      "lat": 40.7227,
+      "lng": -73.9955,
+      "borough": "Manhattan",
+      "geocodeStatus": "auto",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Elizabeth Street Garden",
+        "googleEventId": "71h11muve0t6d05laudo77n27i@google.com"
+      }
+    },
+    {
       "id": "3ahh9ctrc4ujadltviv0htge1j@google.com",
       "title": "Joint Weekday and Westchester Sketchers",
       "date": "2026-08-05",
@@ -90,6 +240,24 @@
         "type": "google_calendar",
         "title": "Joint Weekday and Westchester Sketchers",
         "googleEventId": "3ahh9ctrc4ujadltviv0htge1j@google.com"
+      }
+    },
+    {
+      "id": "6d58usv0e6ampdb6snubf80765@google.com",
+      "title": "Weekend Sketchers: Riverside Park- Locomotive Lawn",
+      "date": "2026-08-01",
+      "year": 2026,
+      "month": 8,
+      "season": "summer",
+      "locationText": "Riverside Park",
+      "lat": 40.8015,
+      "lng": -73.9721,
+      "borough": "Manhattan",
+      "geocodeStatus": "auto",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Riverside Park- Locomotive Lawn",
+        "googleEventId": "6d58usv0e6ampdb6snubf80765@google.com"
       }
     },
     {
@@ -203,20 +371,6 @@
       }
     },
     {
-      "id": "7i8fotbjv8hj1bdjkdprilb8pa@google.com",
-      "title": "Weekend Sketchers: Governor's Island",
-      "date": "2026-07-18",
-      "year": 2026,
-      "month": 7,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Weekend Sketchers: Governor's Island",
-        "googleEventId": "7i8fotbjv8hj1bdjkdprilb8pa@google.com"
-      }
-    },
-    {
       "id": "796c1gaeg0ite1dg040cr3646b@google.com",
       "title": "added! Workshop: Loose Colored Lines with Santi Sallés",
       "date": "2026-07-18",
@@ -231,8 +385,26 @@
       }
     },
     {
+      "id": "7i8fotbjv8hj1bdjkdprilb8pa@google.com",
+      "title": "Weekend Sketchers: 1 Bryant Park Atrium",
+      "date": "2026-07-18",
+      "year": 2026,
+      "month": 7,
+      "season": "summer",
+      "locationText": "Bryant Park",
+      "lat": 40.7536,
+      "lng": -73.9832,
+      "borough": "Manhattan",
+      "geocodeStatus": "auto",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: 1 Bryant Park Atrium",
+        "googleEventId": "7i8fotbjv8hj1bdjkdprilb8pa@google.com"
+      }
+    },
+    {
       "id": "5q1rlgf277t5c6kuis3k4vq7jq@google.com",
-      "title": "WESTCHESTER Sketchers at Muscoot Farm in Katonah",
+      "title": "CANCELED due to Extreme Heat: WESTCHESTER Sketchers at Muscoot Farm in Katonah",
       "date": "2026-07-16",
       "year": 2026,
       "month": 7,
@@ -240,7 +412,7 @@
       "geocodeStatus": "needs_review",
       "source": {
         "type": "google_calendar",
-        "title": "WESTCHESTER Sketchers at Muscoot Farm in Katonah",
+        "title": "CANCELED due to Extreme Heat: WESTCHESTER Sketchers at Muscoot Farm in Katonah",
         "googleEventId": "5q1rlgf277t5c6kuis3k4vq7jq@google.com",
         "url": "https://www.nycurbansketchers.org/2026/07/thursday-july-16-2026-westchester.html"
       }
@@ -348,24 +520,6 @@
       }
     },
     {
-      "id": "7frf14b6v4e9nolohau2vcnk6n@google.com",
-      "title": "Joint Weekend/Westchester Sketchers: Van Cortlandt Park/ House Museum",
-      "date": "2026-06-27",
-      "year": 2026,
-      "month": 6,
-      "season": "summer",
-      "locationText": "Van Cortlandt Park",
-      "lat": 40.8972,
-      "lng": -73.8862,
-      "borough": "Bronx",
-      "geocodeStatus": "auto",
-      "source": {
-        "type": "google_calendar",
-        "title": "Joint Weekend/Westchester Sketchers: Van Cortlandt Park/ House Museum",
-        "googleEventId": "7frf14b6v4e9nolohau2vcnk6n@google.com"
-      }
-    },
-    {
       "id": "6n1s2nq4noeahgg4mopv9ve7f4@google.com",
       "title": "Workshop: Plein Air Watercolor at the Lake in Central Park with Patrick King",
       "date": "2026-06-27",
@@ -381,6 +535,24 @@
         "type": "google_calendar",
         "title": "Workshop: Plein Air Watercolor at the Lake in Central Park with Patrick King",
         "googleEventId": "6n1s2nq4noeahgg4mopv9ve7f4@google.com"
+      }
+    },
+    {
+      "id": "7frf14b6v4e9nolohau2vcnk6n@google.com",
+      "title": "Joint Weekend/Westchester Sketchers: Van Cortlandt Park/ House Museum",
+      "date": "2026-06-27",
+      "year": 2026,
+      "month": 6,
+      "season": "summer",
+      "locationText": "Van Cortlandt Park",
+      "lat": 40.8972,
+      "lng": -73.8862,
+      "borough": "Bronx",
+      "geocodeStatus": "auto",
+      "source": {
+        "type": "google_calendar",
+        "title": "Joint Weekend/Westchester Sketchers: Van Cortlandt Park/ House Museum",
+        "googleEventId": "7frf14b6v4e9nolohau2vcnk6n@google.com"
       }
     },
     {
@@ -518,24 +690,6 @@
       }
     },
     {
-      "id": "g83p0j76eg8tiibkdeb60rj690@google.com",
-      "title": "Workshop: Gesture Painting with Rene Barkette",
-      "date": "2026-06-06",
-      "year": 2026,
-      "month": 6,
-      "season": "summer",
-      "locationText": "Madison Square Park",
-      "lat": 40.742,
-      "lng": -73.9876,
-      "borough": "Manhattan",
-      "geocodeStatus": "manual",
-      "source": {
-        "type": "google_calendar",
-        "title": "Workshop: Gesture Painting with Rene Barkette",
-        "googleEventId": "g83p0j76eg8tiibkdeb60rj690@google.com"
-      }
-    },
-    {
       "id": "7a99uovuo4bl1tg9lp4ag14bfd@google.com",
       "title": "Weekend Sketchers: Conservatory Garden, Central Park",
       "date": "2026-06-06",
@@ -551,6 +705,24 @@
         "type": "google_calendar",
         "title": "Weekend Sketchers: Conservatory Garden, Central Park",
         "googleEventId": "7a99uovuo4bl1tg9lp4ag14bfd@google.com"
+      }
+    },
+    {
+      "id": "g83p0j76eg8tiibkdeb60rj690@google.com",
+      "title": "Workshop: Gesture Painting with Rene Barkette",
+      "date": "2026-06-06",
+      "year": 2026,
+      "month": 6,
+      "season": "summer",
+      "locationText": "Madison Square Park",
+      "lat": 40.742,
+      "lng": -73.9876,
+      "borough": "Manhattan",
+      "geocodeStatus": "manual",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop: Gesture Painting with Rene Barkette",
+        "googleEventId": "g83p0j76eg8tiibkdeb60rj690@google.com"
       }
     },
     {
@@ -590,20 +762,6 @@
       }
     },
     {
-      "id": "5b44pmkh77llqbidj705m4dofe@google.com",
-      "title": "Weekend Sketchers: Fort Greene and BAM",
-      "date": "2026-05-30",
-      "year": 2026,
-      "month": 5,
-      "season": "spring",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Weekend Sketchers: Fort Greene and BAM",
-        "googleEventId": "5b44pmkh77llqbidj705m4dofe@google.com"
-      }
-    },
-    {
       "id": "4kg0839lvac4k5f1r55upuom8j@google.com",
       "title": "WESTCHESTER SKETCHERS at Caramoor's Welcome Summer Opening Day Event in Katonah",
       "date": "2026-05-30",
@@ -616,6 +774,20 @@
         "title": "WESTCHESTER SKETCHERS at Caramoor's Welcome Summer Opening Day Event in Katonah",
         "googleEventId": "4kg0839lvac4k5f1r55upuom8j@google.com",
         "url": "https://www.nycurbansketchers.org/2026/05/saturday-may-30-2026-westchester.html"
+      }
+    },
+    {
+      "id": "5b44pmkh77llqbidj705m4dofe@google.com",
+      "title": "Weekend Sketchers: Fort Greene and BAM",
+      "date": "2026-05-30",
+      "year": 2026,
+      "month": 5,
+      "season": "spring",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Fort Greene and BAM",
+        "googleEventId": "5b44pmkh77llqbidj705m4dofe@google.com"
       }
     },
     {
@@ -979,24 +1151,6 @@
       }
     },
     {
-      "id": "3u09t39raed6ob7ji9rvn3k242@google.com",
-      "title": "Weekend Sketchers: Roosevelt Island Promenade",
-      "date": "2026-04-18",
-      "year": 2026,
-      "month": 4,
-      "season": "spring",
-      "locationText": "Roosevelt Island",
-      "lat": 40.762,
-      "lng": -73.951,
-      "borough": "Manhattan",
-      "geocodeStatus": "auto",
-      "source": {
-        "type": "google_calendar",
-        "title": "Weekend Sketchers: Roosevelt Island Promenade",
-        "googleEventId": "3u09t39raed6ob7ji9rvn3k242@google.com"
-      }
-    },
-    {
       "id": "24in6e9b7sqasp6urjm99nsjb9@google.com",
       "title": "Workshop: Drawing People in Mixed Media with Min Lee",
       "date": "2026-04-18",
@@ -1012,6 +1166,24 @@
         "type": "google_calendar",
         "title": "Workshop: Drawing People in Mixed Media with Min Lee",
         "googleEventId": "24in6e9b7sqasp6urjm99nsjb9@google.com"
+      }
+    },
+    {
+      "id": "3u09t39raed6ob7ji9rvn3k242@google.com",
+      "title": "Weekend Sketchers: Roosevelt Island Promenade",
+      "date": "2026-04-18",
+      "year": 2026,
+      "month": 4,
+      "season": "spring",
+      "locationText": "Roosevelt Island",
+      "lat": 40.762,
+      "lng": -73.951,
+      "borough": "Manhattan",
+      "geocodeStatus": "auto",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Roosevelt Island Promenade",
+        "googleEventId": "3u09t39raed6ob7ji9rvn3k242@google.com"
       }
     },
     {
@@ -2636,20 +2808,6 @@
       }
     },
     {
-      "id": "11kjaodcracf26vmon4uab8s4v@google.com",
-      "title": "Workshop Charles Cannizzaro",
-      "date": "2025-09-20",
-      "year": 2025,
-      "month": 9,
-      "season": "fall",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Workshop Charles Cannizzaro",
-        "googleEventId": "11kjaodcracf26vmon4uab8s4v@google.com"
-      }
-    },
-    {
       "id": "5gjnjt2d10o5ps44ojtm4cvbnk@google.com",
       "title": "Westchester Sketchers at Herb Fair and Market at Caramoor in Katonah",
       "date": "2025-09-20",
@@ -2662,6 +2820,20 @@
         "title": "Westchester Sketchers at Herb Fair and Market at Caramoor in Katonah",
         "googleEventId": "5gjnjt2d10o5ps44ojtm4cvbnk@google.com",
         "url": "https://www.nycurbansketchers.org/2025/09/saturday-september-20-2025-westchester.html"
+      }
+    },
+    {
+      "id": "11kjaodcracf26vmon4uab8s4v@google.com",
+      "title": "Workshop Charles Cannizzaro",
+      "date": "2025-09-20",
+      "year": 2025,
+      "month": 9,
+      "season": "fall",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop Charles Cannizzaro",
+        "googleEventId": "11kjaodcracf26vmon4uab8s4v@google.com"
       }
     },
     {
@@ -3254,18 +3426,17 @@
       }
     },
     {
-      "id": "6f7fe99i6kgq087bbec4b3h9h0@google.com",
-      "title": "Westchester Sketchers at the Hammond Museum and Japanese Stroll Gardens",
+      "id": "1ov3eimh0q1c409udpdbe7vt20@google.com",
+      "title": "Workshop Danna Feintuch",
       "date": "2025-06-21",
       "year": 2025,
       "month": 6,
       "season": "summer",
-      "geocodeStatus": "needs_review",
+      "geocodeStatus": "failed",
       "source": {
         "type": "google_calendar",
-        "title": "Westchester Sketchers at the Hammond Museum and Japanese Stroll Gardens",
-        "googleEventId": "6f7fe99i6kgq087bbec4b3h9h0@google.com",
-        "url": "https://www.nycurbansketchers.org/2025/06/saturday-june-21-2025-westchester.html"
+        "title": "Workshop Danna Feintuch",
+        "googleEventId": "1ov3eimh0q1c409udpdbe7vt20@google.com"
       }
     },
     {
@@ -3288,17 +3459,18 @@
       }
     },
     {
-      "id": "1ov3eimh0q1c409udpdbe7vt20@google.com",
-      "title": "Workshop Danna Feintuch",
+      "id": "6f7fe99i6kgq087bbec4b3h9h0@google.com",
+      "title": "Westchester Sketchers at the Hammond Museum and Japanese Stroll Gardens",
       "date": "2025-06-21",
       "year": 2025,
       "month": 6,
       "season": "summer",
-      "geocodeStatus": "failed",
+      "geocodeStatus": "needs_review",
       "source": {
         "type": "google_calendar",
-        "title": "Workshop Danna Feintuch",
-        "googleEventId": "1ov3eimh0q1c409udpdbe7vt20@google.com"
+        "title": "Westchester Sketchers at the Hammond Museum and Japanese Stroll Gardens",
+        "googleEventId": "6f7fe99i6kgq087bbec4b3h9h0@google.com",
+        "url": "https://www.nycurbansketchers.org/2025/06/saturday-june-21-2025-westchester.html"
       }
     },
     {
@@ -3407,6 +3579,21 @@
       }
     },
     {
+      "id": "0a7vis5fgobk0eti2q575h9ihn@google.com",
+      "title": "Westchester Sketchers at Caramoor Open House/Kick-off day",
+      "date": "2025-06-01",
+      "year": 2025,
+      "month": 6,
+      "season": "summer",
+      "geocodeStatus": "needs_review",
+      "source": {
+        "type": "google_calendar",
+        "title": "Westchester Sketchers at Caramoor Open House/Kick-off day",
+        "googleEventId": "0a7vis5fgobk0eti2q575h9ihn@google.com",
+        "url": "https://www.nycurbansketchers.org/2025/05/sunday-june-1-2025-westchester.html"
+      }
+    },
+    {
       "id": "2fsc53nsqs8kgg72htkrid45oq@google.com",
       "title": "Domino Park",
       "date": "2025-06-01",
@@ -3422,21 +3609,6 @@
         "type": "google_calendar",
         "title": "Domino Park",
         "googleEventId": "2fsc53nsqs8kgg72htkrid45oq@google.com"
-      }
-    },
-    {
-      "id": "0a7vis5fgobk0eti2q575h9ihn@google.com",
-      "title": "Westchester Sketchers at Caramoor Open House/Kick-off day",
-      "date": "2025-06-01",
-      "year": 2025,
-      "month": 6,
-      "season": "summer",
-      "geocodeStatus": "needs_review",
-      "source": {
-        "type": "google_calendar",
-        "title": "Westchester Sketchers at Caramoor Open House/Kick-off day",
-        "googleEventId": "0a7vis5fgobk0eti2q575h9ihn@google.com",
-        "url": "https://www.nycurbansketchers.org/2025/05/sunday-june-1-2025-westchester.html"
       }
     },
     {
@@ -5110,6 +5282,20 @@
       }
     },
     {
+      "id": "4q8c6rn99tt2q7sd6p4fgm1kiq@google.com",
+      "title": "Sketch the Chinese Scholar’s Garden",
+      "date": "2024-10-05",
+      "year": 2024,
+      "month": 10,
+      "season": "fall",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Sketch the Chinese Scholar’s Garden",
+        "googleEventId": "4q8c6rn99tt2q7sd6p4fgm1kiq@google.com"
+      }
+    },
+    {
       "id": "49i2o8i7qr8l13ne7d94qdpj35@google.com",
       "title": "Westchester Sketchers Plein Air Day at the Bronxville Library",
       "date": "2024-10-05",
@@ -5122,20 +5308,6 @@
         "title": "Westchester Sketchers Plein Air Day at the Bronxville Library",
         "googleEventId": "49i2o8i7qr8l13ne7d94qdpj35@google.com",
         "url": "https://www.nycurbansketchers.org/2024/10/saturday-october-5-2024-westchester.html"
-      }
-    },
-    {
-      "id": "4q8c6rn99tt2q7sd6p4fgm1kiq@google.com",
-      "title": "Sketch the Chinese Scholar’s Garden",
-      "date": "2024-10-05",
-      "year": 2024,
-      "month": 10,
-      "season": "fall",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Sketch the Chinese Scholar’s Garden",
-        "googleEventId": "4q8c6rn99tt2q7sd6p4fgm1kiq@google.com"
       }
     },
     {
@@ -5445,6 +5617,20 @@
       }
     },
     {
+      "id": "3au4lcmnsonutb3jdgqqkggd9t@google.com",
+      "title": "Katie Woodward Workshop-Reflections",
+      "date": "2024-08-10",
+      "year": 2024,
+      "month": 8,
+      "season": "summer",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Katie Woodward Workshop-Reflections",
+        "googleEventId": "3au4lcmnsonutb3jdgqqkggd9t@google.com"
+      }
+    },
+    {
       "id": "13gma8itg3favj6o6qacf6nqsh@google.com",
       "title": "Museum of Natural History",
       "date": "2024-08-10",
@@ -5460,20 +5646,6 @@
         "type": "google_calendar",
         "title": "Museum of Natural History",
         "googleEventId": "13gma8itg3favj6o6qacf6nqsh@google.com"
-      }
-    },
-    {
-      "id": "3au4lcmnsonutb3jdgqqkggd9t@google.com",
-      "title": "Katie Woodward Workshop-Reflections",
-      "date": "2024-08-10",
-      "year": 2024,
-      "month": 8,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Katie Woodward Workshop-Reflections",
-        "googleEventId": "3au4lcmnsonutb3jdgqqkggd9t@google.com"
       }
     },
     {
@@ -5641,39 +5813,6 @@
         "type": "google_calendar",
         "title": "3rd Annual Summer Celebration",
         "googleEventId": "5ke9kqu0nprk3kg2439girgkl1@google.com"
-      }
-    },
-    {
-      "id": "5g2ca6q012g2pcld649pe78sr7@google.com",
-      "title": "Westchester and NJ Sketchers Plein Air Event at Orangeburg Library  in Rockland",
-      "date": "2024-07-16",
-      "year": 2024,
-      "month": 7,
-      "season": "summer",
-      "geocodeStatus": "needs_review",
-      "source": {
-        "type": "google_calendar",
-        "title": "Westchester and NJ Sketchers Plein Air Event at Orangeburg Library  in Rockland",
-        "googleEventId": "5g2ca6q012g2pcld649pe78sr7@google.com",
-        "url": "https://www.nycurbansketchers.org/2024/07/tuesday-july-162024-westchester-and-nj.html"
-      }
-    },
-    {
-      "id": "5cg26fr52ct1frpr9cmv5ntgd9@google.com",
-      "title": "Sketch Red Hook",
-      "date": "2024-07-13",
-      "year": 2024,
-      "month": 7,
-      "season": "summer",
-      "locationText": "Red Hook",
-      "lat": 40.6734,
-      "lng": -74.0083,
-      "borough": "Brooklyn",
-      "geocodeStatus": "auto",
-      "source": {
-        "type": "google_calendar",
-        "title": "Sketch Red Hook",
-        "googleEventId": "5cg26fr52ct1frpr9cmv5ntgd9@google.com"
       }
     }
   ]
