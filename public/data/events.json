@@ -1,11 +1,188 @@
 {
-  "generatedAt": "2026-08-10T10:59:29.200Z",
+  "generatedAt": "2026-08-17T10:23:10.085Z",
   "range": {
-    "from": "2024-08-10",
-    "to": "2026-08-10"
+    "from": "2024-08-17",
+    "to": "2026-08-17"
   },
   "source": "google_calendar",
   "events": [
+    {
+      "id": "29rd3fm1jnmeqdhe9g5nch5nob@google.com",
+      "title": "Weekend Sketchers: Chinatown",
+      "date": "2026-11-07",
+      "year": 2026,
+      "month": 11,
+      "season": "fall",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Chinatown",
+        "googleEventId": "29rd3fm1jnmeqdhe9g5nch5nob@google.com"
+      }
+    },
+    {
+      "id": "0g1fjqgddfsikajks04u8dev7f@google.com",
+      "title": "Weekend Sketchers: Ditmars Park/ Kensington",
+      "date": "2026-10-31",
+      "year": 2026,
+      "month": 10,
+      "season": "fall",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Ditmars Park/ Kensington",
+        "googleEventId": "0g1fjqgddfsikajks04u8dev7f@google.com"
+      }
+    },
+    {
+      "id": "2qj93q77s2m1e9dveup1hbo7no@google.com",
+      "title": "Weekday Sketchers ",
+      "date": "2026-10-28",
+      "year": 2026,
+      "month": 10,
+      "season": "fall",
+      "locationText": "Elizabeth Street Garden, Elizabeth St, New York, NY 10012, USA",
+      "lat": 40.7227,
+      "lng": -73.9955,
+      "borough": "Manhattan",
+      "geocodeStatus": "manual",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekday Sketchers ",
+        "googleEventId": "2qj93q77s2m1e9dveup1hbo7no@google.com"
+      }
+    },
+    {
+      "id": "5pl12o3o08j1e457rpcqf368r1@google.com",
+      "title": "Weekend Sketchers: Coney Island",
+      "date": "2026-10-24",
+      "year": 2026,
+      "month": 10,
+      "season": "fall",
+      "locationText": "Coney Island",
+      "lat": 40.5749,
+      "lng": -73.971,
+      "borough": "Brooklyn",
+      "geocodeStatus": "auto",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Coney Island",
+        "googleEventId": "5pl12o3o08j1e457rpcqf368r1@google.com"
+      }
+    },
+    {
+      "id": "1ep9agf4fpj7epmnip0kfjc304@google.com",
+      "title": "Weekday Sketchers ",
+      "date": "2026-10-21",
+      "year": 2026,
+      "month": 10,
+      "season": "fall",
+      "locationText": "Pier I, Riverside Park South, New York, NY 10069, USA",
+      "geocodeStatus": "needs_review",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekday Sketchers ",
+        "googleEventId": "1ep9agf4fpj7epmnip0kfjc304@google.com"
+      }
+    },
+    {
+      "id": "4obfn28m74k4na75v3r02m8dlj@google.com",
+      "title": "Weekend Sketchers: Central Park, Conservatory Lake",
+      "date": "2026-10-17",
+      "year": 2026,
+      "month": 10,
+      "season": "fall",
+      "locationText": "Central Park",
+      "lat": 40.7829,
+      "lng": -73.9654,
+      "borough": "Manhattan",
+      "geocodeStatus": "auto",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Central Park, Conservatory Lake",
+        "googleEventId": "4obfn28m74k4na75v3r02m8dlj@google.com"
+      }
+    },
+    {
+      "id": "2ia2nn314pa506g2r8325dk1bf@google.com",
+      "title": "Weekday Sketchers ",
+      "date": "2026-10-14",
+      "year": 2026,
+      "month": 10,
+      "season": "fall",
+      "locationText": "NY Botanical Garden ",
+      "lat": 40.8631,
+      "lng": -73.8772,
+      "borough": "Bronx",
+      "geocodeStatus": "manual",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekday Sketchers ",
+        "googleEventId": "2ia2nn314pa506g2r8325dk1bf@google.com"
+      }
+    },
+    {
+      "id": "6s71fts2nk1nkc9t815884qv67@google.com",
+      "title": "Weekend Sketchers: The Intrepid",
+      "date": "2026-10-10",
+      "year": 2026,
+      "month": 10,
+      "season": "fall",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: The Intrepid",
+        "googleEventId": "6s71fts2nk1nkc9t815884qv67@google.com"
+      }
+    },
+    {
+      "id": "1gmvnfiijdpb7bd4jfa94uqfk4@google.com",
+      "title": "Weekday Sketchers ",
+      "date": "2026-10-07",
+      "year": 2026,
+      "month": 10,
+      "season": "fall",
+      "locationText": "Lincoln Center Plaza, New York, NY 10023, USA",
+      "geocodeStatus": "needs_review",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekday Sketchers ",
+        "googleEventId": "1gmvnfiijdpb7bd4jfa94uqfk4@google.com"
+      }
+    },
+    {
+      "id": "3ik6jgllpk022m9fq3m6d3hnj9@google.com",
+      "title": "Weekend Sketchers: Forest Hills",
+      "date": "2026-10-03",
+      "year": 2026,
+      "month": 10,
+      "season": "fall",
+      "locationText": "Forest Hills",
+      "lat": 40.7196,
+      "lng": -73.8448,
+      "borough": "Queens",
+      "geocodeStatus": "auto",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Forest Hills",
+        "googleEventId": "3ik6jgllpk022m9fq3m6d3hnj9@google.com"
+      }
+    },
+    {
+      "id": "1lhbshsbe79t4kslq2lfa3bgpb@google.com",
+      "title": "Weekday and Westchester Sketchers",
+      "date": "2026-09-30",
+      "year": 2026,
+      "month": 9,
+      "season": "fall",
+      "locationText": "St. Patrick's Cathedral, 5th Ave, New York, NY 10022, USA",
+      "geocodeStatus": "needs_review",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekday and Westchester Sketchers",
+        "googleEventId": "1lhbshsbe79t4kslq2lfa3bgpb@google.com"
+      }
+    },
     {
       "id": "3ph7bfoq59g7rtcug8e37iv6fe@google.com",
       "title": "Weekend Sketchers: Oyster Bay Long Island",
@@ -22,6 +199,21 @@
         "type": "google_calendar",
         "title": "Weekend Sketchers: Oyster Bay Long Island",
         "googleEventId": "3ph7bfoq59g7rtcug8e37iv6fe@google.com"
+      }
+    },
+    {
+      "id": "2d1hva5jravf70cqr55uaelqlq@google.com",
+      "title": "Weekday and Westchester Sketchers",
+      "date": "2026-09-23",
+      "year": 2026,
+      "month": 9,
+      "season": "fall",
+      "locationText": "Derfner Judaica Museum, 5901 Palisade Ave, Bronx, NY 10471, USA",
+      "geocodeStatus": "needs_review",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekday and Westchester Sketchers",
+        "googleEventId": "2d1hva5jravf70cqr55uaelqlq@google.com"
       }
     },
     {
@@ -43,6 +235,21 @@
       }
     },
     {
+      "id": "2qdrr5cn8v3qju6bo6efr6vm57@google.com",
+      "title": "Weekday Sketchers",
+      "date": "2026-09-16",
+      "year": 2026,
+      "month": 9,
+      "season": "fall",
+      "locationText": "Bethesday Fountain, Central Park",
+      "geocodeStatus": "needs_review",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekday Sketchers",
+        "googleEventId": "2qdrr5cn8v3qju6bo6efr6vm57@google.com"
+      }
+    },
+    {
       "id": "1h3a86iqniu0h5kvidb56ljb7j@google.com",
       "title": "Weekend Sketchers: Bryant Park",
       "date": "2026-09-12",
@@ -61,6 +268,21 @@
       }
     },
     {
+      "id": "7s9omb87iv50ua9r5ca723h329@google.com",
+      "title": "Weekday Sketchers ",
+      "date": "2026-09-09",
+      "year": 2026,
+      "month": 9,
+      "season": "fall",
+      "locationText": "Great Hill Central Park",
+      "geocodeStatus": "needs_review",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekday Sketchers ",
+        "googleEventId": "7s9omb87iv50ua9r5ca723h329@google.com"
+      }
+    },
+    {
       "id": "34fq1kfu14kc3v05k6e33nftan@google.com",
       "title": "Weekend Sketchers: Sunset Park, Brooklyn",
       "date": "2026-09-05",
@@ -72,6 +294,21 @@
         "type": "google_calendar",
         "title": "Weekend Sketchers: Sunset Park, Brooklyn",
         "googleEventId": "34fq1kfu14kc3v05k6e33nftan@google.com"
+      }
+    },
+    {
+      "id": "62r5b98kndkp13r4f2obvfcd7s@google.com",
+      "title": "Weekday Sketchers",
+      "date": "2026-09-02",
+      "year": 2026,
+      "month": 9,
+      "season": "fall",
+      "locationText": "Jefferson Market Garden, 10 Greenwich Ave, New York, NY 10011, USA",
+      "geocodeStatus": "needs_review",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekday Sketchers",
+        "googleEventId": "62r5b98kndkp13r4f2obvfcd7s@google.com"
       }
     },
     {
@@ -112,19 +349,15 @@
     },
     {
       "id": "1a3656kr2q39uvgmie7r285dul@google.com",
-      "title": "Weekend Sketchers: Domino Park",
+      "title": "Weekend Sketchers: Governor's Island",
       "date": "2026-08-22",
       "year": 2026,
       "month": 8,
       "season": "summer",
-      "locationText": "Domino Park",
-      "lat": 40.7137,
-      "lng": -73.9683,
-      "borough": "Brooklyn",
-      "geocodeStatus": "auto",
+      "geocodeStatus": "failed",
       "source": {
         "type": "google_calendar",
-        "title": "Weekend Sketchers: Domino Park",
+        "title": "Weekend Sketchers: Governor's Island",
         "googleEventId": "1a3656kr2q39uvgmie7r285dul@google.com"
       }
     },
@@ -144,6 +377,20 @@
         "type": "google_calendar",
         "title": "Weekday and Westchester Sketchers ",
         "googleEventId": "7fmt2440718239pru8qksbjlnt@google.com"
+      }
+    },
+    {
+      "id": "47bb1kgfak8a8u1op42qtt9n8p@google.com",
+      "title": "2ND Session WORKSHOP: Let it glow with Katie Woodward",
+      "date": "2026-08-15",
+      "year": 2026,
+      "month": 8,
+      "season": "summer",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "2ND Session WORKSHOP: Let it glow with Katie Woodward",
+        "googleEventId": "47bb1kgfak8a8u1op42qtt9n8p@google.com"
       }
     },
     {
@@ -172,20 +419,6 @@
         "type": "google_calendar",
         "title": "WORKSHOP: Let it glow with Katie Woodward",
         "googleEventId": "2vrn28ma5vcs73os0v3tvje5cs@google.com"
-      }
-    },
-    {
-      "id": "47bb1kgfak8a8u1op42qtt9n8p@google.com",
-      "title": "2ND Session WORKSHOP: Let it glow with Katie Woodward",
-      "date": "2026-08-15",
-      "year": 2026,
-      "month": 8,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "2ND Session WORKSHOP: Let it glow with Katie Woodward",
-        "googleEventId": "47bb1kgfak8a8u1op42qtt9n8p@google.com"
       }
     },
     {
@@ -387,6 +620,20 @@
       }
     },
     {
+      "id": "796c1gaeg0ite1dg040cr3646b@google.com",
+      "title": "added! Workshop: Loose Colored Lines with Santi Sallés",
+      "date": "2026-07-18",
+      "year": 2026,
+      "month": 7,
+      "season": "summer",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "added! Workshop: Loose Colored Lines with Santi Sallés",
+        "googleEventId": "796c1gaeg0ite1dg040cr3646b@google.com"
+      }
+    },
+    {
       "id": "7i8fotbjv8hj1bdjkdprilb8pa@google.com",
       "title": "Weekend Sketchers: 1 Bryant Park Atrium",
       "date": "2026-07-18",
@@ -402,20 +649,6 @@
         "type": "google_calendar",
         "title": "Weekend Sketchers: 1 Bryant Park Atrium",
         "googleEventId": "7i8fotbjv8hj1bdjkdprilb8pa@google.com"
-      }
-    },
-    {
-      "id": "796c1gaeg0ite1dg040cr3646b@google.com",
-      "title": "added! Workshop: Loose Colored Lines with Santi Sallés",
-      "date": "2026-07-18",
-      "year": 2026,
-      "month": 7,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "added! Workshop: Loose Colored Lines with Santi Sallés",
-        "googleEventId": "796c1gaeg0ite1dg040cr3646b@google.com"
       }
     },
     {
@@ -1167,24 +1400,6 @@
       }
     },
     {
-      "id": "24in6e9b7sqasp6urjm99nsjb9@google.com",
-      "title": "Workshop: Drawing People in Mixed Media with Min Lee",
-      "date": "2026-04-18",
-      "year": 2026,
-      "month": 4,
-      "season": "spring",
-      "locationText": "The Hugh, 157 E 53rd St, New York, NY 10022, USA",
-      "lat": 40.759,
-      "lng": -73.9712,
-      "borough": "Manhattan",
-      "geocodeStatus": "manual",
-      "source": {
-        "type": "google_calendar",
-        "title": "Workshop: Drawing People in Mixed Media with Min Lee",
-        "googleEventId": "24in6e9b7sqasp6urjm99nsjb9@google.com"
-      }
-    },
-    {
       "id": "3u09t39raed6ob7ji9rvn3k242@google.com",
       "title": "Weekend Sketchers: Roosevelt Island Promenade",
       "date": "2026-04-18",
@@ -1200,6 +1415,24 @@
         "type": "google_calendar",
         "title": "Weekend Sketchers: Roosevelt Island Promenade",
         "googleEventId": "3u09t39raed6ob7ji9rvn3k242@google.com"
+      }
+    },
+    {
+      "id": "24in6e9b7sqasp6urjm99nsjb9@google.com",
+      "title": "Workshop: Drawing People in Mixed Media with Min Lee",
+      "date": "2026-04-18",
+      "year": 2026,
+      "month": 4,
+      "season": "spring",
+      "locationText": "The Hugh, 157 E 53rd St, New York, NY 10022, USA",
+      "lat": 40.759,
+      "lng": -73.9712,
+      "borough": "Manhattan",
+      "geocodeStatus": "manual",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop: Drawing People in Mixed Media with Min Lee",
+        "googleEventId": "24in6e9b7sqasp6urjm99nsjb9@google.com"
       }
     },
     {
@@ -2824,20 +3057,6 @@
       }
     },
     {
-      "id": "11kjaodcracf26vmon4uab8s4v@google.com",
-      "title": "Workshop Charles Cannizzaro",
-      "date": "2025-09-20",
-      "year": 2025,
-      "month": 9,
-      "season": "fall",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Workshop Charles Cannizzaro",
-        "googleEventId": "11kjaodcracf26vmon4uab8s4v@google.com"
-      }
-    },
-    {
       "id": "5gjnjt2d10o5ps44ojtm4cvbnk@google.com",
       "title": "Westchester Sketchers at Herb Fair and Market at Caramoor in Katonah",
       "date": "2025-09-20",
@@ -2850,6 +3069,20 @@
         "title": "Westchester Sketchers at Herb Fair and Market at Caramoor in Katonah",
         "googleEventId": "5gjnjt2d10o5ps44ojtm4cvbnk@google.com",
         "url": "https://www.nycurbansketchers.org/2025/09/saturday-september-20-2025-westchester.html"
+      }
+    },
+    {
+      "id": "11kjaodcracf26vmon4uab8s4v@google.com",
+      "title": "Workshop Charles Cannizzaro",
+      "date": "2025-09-20",
+      "year": 2025,
+      "month": 9,
+      "season": "fall",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop Charles Cannizzaro",
+        "googleEventId": "11kjaodcracf26vmon4uab8s4v@google.com"
       }
     },
     {
@@ -3527,6 +3760,20 @@
       }
     },
     {
+      "id": "4rrakfrgp1doepkt9c148ke3b4@google.com",
+      "title": "Workshop Susan Greenstein-painting Practice using Wet-on-Wet",
+      "date": "2025-06-14",
+      "year": 2025,
+      "month": 6,
+      "season": "summer",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop Susan Greenstein-painting Practice using Wet-on-Wet",
+        "googleEventId": "4rrakfrgp1doepkt9c148ke3b4@google.com"
+      }
+    },
+    {
       "id": "1ir61e1u1ss668jc87hov4ph4t@google.com",
       "title": "Elevated Acres",
       "date": "2025-06-14",
@@ -3542,20 +3789,6 @@
         "type": "google_calendar",
         "title": "Elevated Acres",
         "googleEventId": "1ir61e1u1ss668jc87hov4ph4t@google.com"
-      }
-    },
-    {
-      "id": "4rrakfrgp1doepkt9c148ke3b4@google.com",
-      "title": "Workshop Susan Greenstein-painting Practice using Wet-on-Wet",
-      "date": "2025-06-14",
-      "year": 2025,
-      "month": 6,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Workshop Susan Greenstein-painting Practice using Wet-on-Wet",
-        "googleEventId": "4rrakfrgp1doepkt9c148ke3b4@google.com"
       }
     },
     {
@@ -4890,6 +5123,24 @@
       }
     },
     {
+      "id": "5nm4065jk8pha2fo08rcph899b@google.com",
+      "title": "Seltzer Museum",
+      "date": "2024-12-04",
+      "year": 2024,
+      "month": 12,
+      "season": "winter",
+      "locationText": "Seltzer Museum",
+      "lat": 40.7185,
+      "lng": -73.99,
+      "borough": "Manhattan",
+      "geocodeStatus": "auto",
+      "source": {
+        "type": "google_calendar",
+        "title": "Seltzer Museum",
+        "googleEventId": "5nm4065jk8pha2fo08rcph899b@google.com"
+      }
+    },
+    {
       "id": "3i664fkcotci4nkskha8btn8s2@google.com",
       "title": "Westchester Sketchers at Cast Hall",
       "date": "2024-12-04",
@@ -4906,24 +5157,6 @@
         "title": "Westchester Sketchers at Cast Hall",
         "googleEventId": "3i664fkcotci4nkskha8btn8s2@google.com",
         "url": "https://www.nycurbansketchers.org/2024/11/wednesday-december-4-2024-westchester.html"
-      }
-    },
-    {
-      "id": "5nm4065jk8pha2fo08rcph899b@google.com",
-      "title": "Seltzer Museum",
-      "date": "2024-12-04",
-      "year": 2024,
-      "month": 12,
-      "season": "winter",
-      "locationText": "Seltzer Museum",
-      "lat": 40.7185,
-      "lng": -73.99,
-      "borough": "Manhattan",
-      "geocodeStatus": "auto",
-      "source": {
-        "type": "google_calendar",
-        "title": "Seltzer Museum",
-        "googleEventId": "5nm4065jk8pha2fo08rcph899b@google.com"
       }
     },
     {
@@ -5298,20 +5531,6 @@
       }
     },
     {
-      "id": "4q8c6rn99tt2q7sd6p4fgm1kiq@google.com",
-      "title": "Sketch the Chinese Scholar’s Garden",
-      "date": "2024-10-05",
-      "year": 2024,
-      "month": 10,
-      "season": "fall",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Sketch the Chinese Scholar’s Garden",
-        "googleEventId": "4q8c6rn99tt2q7sd6p4fgm1kiq@google.com"
-      }
-    },
-    {
       "id": "49i2o8i7qr8l13ne7d94qdpj35@google.com",
       "title": "Westchester Sketchers Plein Air Day at the Bronxville Library",
       "date": "2024-10-05",
@@ -5324,6 +5543,20 @@
         "title": "Westchester Sketchers Plein Air Day at the Bronxville Library",
         "googleEventId": "49i2o8i7qr8l13ne7d94qdpj35@google.com",
         "url": "https://www.nycurbansketchers.org/2024/10/saturday-october-5-2024-westchester.html"
+      }
+    },
+    {
+      "id": "4q8c6rn99tt2q7sd6p4fgm1kiq@google.com",
+      "title": "Sketch the Chinese Scholar’s Garden",
+      "date": "2024-10-05",
+      "year": 2024,
+      "month": 10,
+      "season": "fall",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Sketch the Chinese Scholar’s Garden",
+        "googleEventId": "4q8c6rn99tt2q7sd6p4fgm1kiq@google.com"
       }
     },
     {
@@ -5598,70 +5831,6 @@
         "type": "google_calendar",
         "title": "Sketch the High Line",
         "googleEventId": "4j825uoieo1ice7u1unp9sib5q@google.com"
-      }
-    },
-    {
-      "id": "4el1mgnkt20ge8g0hu24s9cql7@google.com",
-      "title": "Westchest Sketchers Plein Air Day at Scarsdale Public Library",
-      "date": "2024-08-15",
-      "year": 2024,
-      "month": 8,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Westchest Sketchers Plein Air Day at Scarsdale Public Library",
-        "googleEventId": "4el1mgnkt20ge8g0hu24s9cql7@google.com"
-      }
-    },
-    {
-      "id": "7lv4850aophksjnr6u8ofp4b4q@google.com",
-      "title": "Bryant Park",
-      "date": "2024-08-14",
-      "year": 2024,
-      "month": 8,
-      "season": "summer",
-      "locationText": "Bryant Park",
-      "lat": 40.7536,
-      "lng": -73.9832,
-      "borough": "Manhattan",
-      "geocodeStatus": "auto",
-      "source": {
-        "type": "google_calendar",
-        "title": "Bryant Park",
-        "googleEventId": "7lv4850aophksjnr6u8ofp4b4q@google.com"
-      }
-    },
-    {
-      "id": "3au4lcmnsonutb3jdgqqkggd9t@google.com",
-      "title": "Katie Woodward Workshop-Reflections",
-      "date": "2024-08-10",
-      "year": 2024,
-      "month": 8,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Katie Woodward Workshop-Reflections",
-        "googleEventId": "3au4lcmnsonutb3jdgqqkggd9t@google.com"
-      }
-    },
-    {
-      "id": "13gma8itg3favj6o6qacf6nqsh@google.com",
-      "title": "Museum of Natural History",
-      "date": "2024-08-10",
-      "year": 2024,
-      "month": 8,
-      "season": "summer",
-      "locationText": "American Museum of Natural History",
-      "lat": 40.7813,
-      "lng": -73.974,
-      "borough": "Manhattan",
-      "geocodeStatus": "auto",
-      "source": {
-        "type": "google_calendar",
-        "title": "Museum of Natural History",
-        "googleEventId": "13gma8itg3favj6o6qacf6nqsh@google.com"
       }
     }
   ]
