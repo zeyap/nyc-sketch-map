@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-24T10:28:54.111Z",
+  "generatedAt": "2026-08-31T17:19:09.638Z",
   "range": {
-    "from": "2024-08-24",
-    "to": "2026-08-24"
+    "from": "2024-08-31",
+    "to": "2026-08-31"
   },
   "source": "google_calendar",
   "events": [
@@ -234,20 +234,6 @@
       }
     },
     {
-      "id": "4vfcekok2fg81a8791palmubf3@google.com",
-      "title": "WORKSHOP: From Line to Pattern: Creating Character in Interior Drawings",
-      "date": "2026-09-19",
-      "year": 2026,
-      "month": 9,
-      "season": "fall",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "WORKSHOP: From Line to Pattern: Creating Character in Interior Drawings",
-        "googleEventId": "4vfcekok2fg81a8791palmubf3@google.com"
-      }
-    },
-    {
       "id": "502bubtm15su3i1s2e1fgvktap@google.com",
       "title": "Weekend Sketchers: Flushing Meadow Park",
       "date": "2026-09-19",
@@ -263,6 +249,20 @@
         "type": "google_calendar",
         "title": "Weekend Sketchers: Flushing Meadow Park",
         "googleEventId": "502bubtm15su3i1s2e1fgvktap@google.com"
+      }
+    },
+    {
+      "id": "4vfcekok2fg81a8791palmubf3@google.com",
+      "title": "WORKSHOP: From Line to Pattern: Creating Character in Interior Drawings",
+      "date": "2026-09-19",
+      "year": 2026,
+      "month": 9,
+      "season": "fall",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "WORKSHOP: From Line to Pattern: Creating Character in Interior Drawings",
+        "googleEventId": "4vfcekok2fg81a8791palmubf3@google.com"
       }
     },
     {
@@ -379,6 +379,21 @@
       }
     },
     {
+      "id": "7vpa1a9j4c4sr7ot3r6qcibtnm@google.com",
+      "title": "WESTCHESTER SKETCHERS at Muscoot Farm in Katonah",
+      "date": "2026-08-26",
+      "year": 2026,
+      "month": 8,
+      "season": "summer",
+      "geocodeStatus": "needs_review",
+      "source": {
+        "type": "google_calendar",
+        "title": "WESTCHESTER SKETCHERS at Muscoot Farm in Katonah",
+        "googleEventId": "7vpa1a9j4c4sr7ot3r6qcibtnm@google.com",
+        "url": "https://www.nycurbansketchers.org/2026/08/wednesday-august-26-2026-westchester.html"
+      }
+    },
+    {
       "id": "1a3656kr2q39uvgmie7r285dul@google.com",
       "title": "Weekend Sketchers: Governors Island",
       "date": "2026-08-22",
@@ -411,20 +426,6 @@
       }
     },
     {
-      "id": "2vrn28ma5vcs73os0v3tvje5cs@google.com",
-      "title": "WORKSHOP: Let it glow with Katie Woodward",
-      "date": "2026-08-15",
-      "year": 2026,
-      "month": 8,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "WORKSHOP: Let it glow with Katie Woodward",
-        "googleEventId": "2vrn28ma5vcs73os0v3tvje5cs@google.com"
-      }
-    },
-    {
       "id": "6unfm6tbq6f9hoilakla5mh803@google.com",
       "title": "Weekend Sketchers: Grant's Tomb/ Riverside Church",
       "date": "2026-08-15",
@@ -450,6 +451,20 @@
         "type": "google_calendar",
         "title": "2ND Session WORKSHOP: Let it glow with Katie Woodward",
         "googleEventId": "47bb1kgfak8a8u1op42qtt9n8p@google.com"
+      }
+    },
+    {
+      "id": "2vrn28ma5vcs73os0v3tvje5cs@google.com",
+      "title": "WORKSHOP: Let it glow with Katie Woodward",
+      "date": "2026-08-15",
+      "year": 2026,
+      "month": 8,
+      "season": "summer",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "WORKSHOP: Let it glow with Katie Woodward",
+        "googleEventId": "2vrn28ma5vcs73os0v3tvje5cs@google.com"
       }
     },
     {
@@ -522,6 +537,20 @@
       }
     },
     {
+      "id": "gfpo9o0sbrkul3ir1nk92kq10k@google.com",
+      "title": "Workshop: Forget the Camera! Capturing Memory in Watercolor with Alyssa Esteban",
+      "date": "2026-08-01",
+      "year": 2026,
+      "month": 8,
+      "season": "summer",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop: Forget the Camera! Capturing Memory in Watercolor with Alyssa Esteban",
+        "googleEventId": "gfpo9o0sbrkul3ir1nk92kq10k@google.com"
+      }
+    },
+    {
       "id": "6d58usv0e6ampdb6snubf80765@google.com",
       "title": "Weekend Sketchers: Riverside Park- Locomotive Lawn",
       "date": "2026-08-01",
@@ -537,20 +566,6 @@
         "type": "google_calendar",
         "title": "Weekend Sketchers: Riverside Park- Locomotive Lawn",
         "googleEventId": "6d58usv0e6ampdb6snubf80765@google.com"
-      }
-    },
-    {
-      "id": "gfpo9o0sbrkul3ir1nk92kq10k@google.com",
-      "title": "Workshop: Forget the Camera! Capturing Memory in Watercolor with Alyssa Esteban",
-      "date": "2026-08-01",
-      "year": 2026,
-      "month": 8,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Workshop: Forget the Camera! Capturing Memory in Watercolor with Alyssa Esteban",
-        "googleEventId": "gfpo9o0sbrkul3ir1nk92kq10k@google.com"
       }
     },
     {
@@ -637,6 +652,20 @@
       }
     },
     {
+      "id": "796c1gaeg0ite1dg040cr3646b@google.com",
+      "title": "added! Workshop: Loose Colored Lines with Santi Sallés",
+      "date": "2026-07-18",
+      "year": 2026,
+      "month": 7,
+      "season": "summer",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "added! Workshop: Loose Colored Lines with Santi Sallés",
+        "googleEventId": "796c1gaeg0ite1dg040cr3646b@google.com"
+      }
+    },
+    {
       "id": "jqjjq3k5lurffj7kgtbtdapmu4@google.com",
       "title": "Workshop: Loose Colored Lines with Santi Sallés",
       "date": "2026-07-18",
@@ -666,20 +695,6 @@
         "type": "google_calendar",
         "title": "Weekend Sketchers: 1 Bryant Park Atrium",
         "googleEventId": "7i8fotbjv8hj1bdjkdprilb8pa@google.com"
-      }
-    },
-    {
-      "id": "796c1gaeg0ite1dg040cr3646b@google.com",
-      "title": "added! Workshop: Loose Colored Lines with Santi Sallés",
-      "date": "2026-07-18",
-      "year": 2026,
-      "month": 7,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "added! Workshop: Loose Colored Lines with Santi Sallés",
-        "googleEventId": "796c1gaeg0ite1dg040cr3646b@google.com"
       }
     },
     {
@@ -869,20 +884,6 @@
       }
     },
     {
-      "id": "9m0njaopqc8bhp7cmr1jkm3i5o@google.com",
-      "title": "Workshop: Make An Accordion Sketchbook with Frieda Christofides",
-      "date": "2026-06-20",
-      "year": 2026,
-      "month": 6,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Workshop: Make An Accordion Sketchbook with Frieda Christofides",
-        "googleEventId": "9m0njaopqc8bhp7cmr1jkm3i5o@google.com"
-      }
-    },
-    {
       "id": "7jfvnuhkb9nnh40isb5mir2isc@google.com",
       "title": "Weekend Sketchers: Green-Wood Cemetery",
       "date": "2026-06-20",
@@ -898,6 +899,20 @@
         "type": "google_calendar",
         "title": "Weekend Sketchers: Green-Wood Cemetery",
         "googleEventId": "7jfvnuhkb9nnh40isb5mir2isc@google.com"
+      }
+    },
+    {
+      "id": "9m0njaopqc8bhp7cmr1jkm3i5o@google.com",
+      "title": "Workshop: Make An Accordion Sketchbook with Frieda Christofides",
+      "date": "2026-06-20",
+      "year": 2026,
+      "month": 6,
+      "season": "summer",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop: Make An Accordion Sketchbook with Frieda Christofides",
+        "googleEventId": "9m0njaopqc8bhp7cmr1jkm3i5o@google.com"
       }
     },
     {
@@ -1024,6 +1039,21 @@
       }
     },
     {
+      "id": "4kg0839lvac4k5f1r55upuom8j@google.com",
+      "title": "WESTCHESTER SKETCHERS at Caramoor's Welcome Summer Opening Day Event in Katonah",
+      "date": "2026-05-30",
+      "year": 2026,
+      "month": 5,
+      "season": "spring",
+      "geocodeStatus": "needs_review",
+      "source": {
+        "type": "google_calendar",
+        "title": "WESTCHESTER SKETCHERS at Caramoor's Welcome Summer Opening Day Event in Katonah",
+        "googleEventId": "4kg0839lvac4k5f1r55upuom8j@google.com",
+        "url": "https://www.nycurbansketchers.org/2026/05/saturday-may-30-2026-westchester.html"
+      }
+    },
+    {
       "id": "5b44pmkh77llqbidj705m4dofe@google.com",
       "title": "Weekend Sketchers: Fort Greene and BAM",
       "date": "2026-05-30",
@@ -1053,21 +1083,6 @@
         "type": "google_calendar",
         "title": "Workshop: Look Up and Sketch Something New!",
         "googleEventId": "moa2rgm222c0bk5gt6t48su3t4@google.com"
-      }
-    },
-    {
-      "id": "4kg0839lvac4k5f1r55upuom8j@google.com",
-      "title": "WESTCHESTER SKETCHERS at Caramoor's Welcome Summer Opening Day Event in Katonah",
-      "date": "2026-05-30",
-      "year": 2026,
-      "month": 5,
-      "season": "spring",
-      "geocodeStatus": "needs_review",
-      "source": {
-        "type": "google_calendar",
-        "title": "WESTCHESTER SKETCHERS at Caramoor's Welcome Summer Opening Day Event in Katonah",
-        "googleEventId": "4kg0839lvac4k5f1r55upuom8j@google.com",
-        "url": "https://www.nycurbansketchers.org/2026/05/saturday-may-30-2026-westchester.html"
       }
     },
     {
@@ -3088,20 +3103,6 @@
       }
     },
     {
-      "id": "11kjaodcracf26vmon4uab8s4v@google.com",
-      "title": "Workshop Charles Cannizzaro",
-      "date": "2025-09-20",
-      "year": 2025,
-      "month": 9,
-      "season": "fall",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Workshop Charles Cannizzaro",
-        "googleEventId": "11kjaodcracf26vmon4uab8s4v@google.com"
-      }
-    },
-    {
       "id": "5gjnjt2d10o5ps44ojtm4cvbnk@google.com",
       "title": "Westchester Sketchers at Herb Fair and Market at Caramoor in Katonah",
       "date": "2025-09-20",
@@ -3114,6 +3115,20 @@
         "title": "Westchester Sketchers at Herb Fair and Market at Caramoor in Katonah",
         "googleEventId": "5gjnjt2d10o5ps44ojtm4cvbnk@google.com",
         "url": "https://www.nycurbansketchers.org/2025/09/saturday-september-20-2025-westchester.html"
+      }
+    },
+    {
+      "id": "11kjaodcracf26vmon4uab8s4v@google.com",
+      "title": "Workshop Charles Cannizzaro",
+      "date": "2025-09-20",
+      "year": 2025,
+      "month": 9,
+      "season": "fall",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop Charles Cannizzaro",
+        "googleEventId": "11kjaodcracf26vmon4uab8s4v@google.com"
       }
     },
     {
@@ -3706,20 +3721,6 @@
       }
     },
     {
-      "id": "1ov3eimh0q1c409udpdbe7vt20@google.com",
-      "title": "Workshop Danna Feintuch",
-      "date": "2025-06-21",
-      "year": 2025,
-      "month": 6,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Workshop Danna Feintuch",
-        "googleEventId": "1ov3eimh0q1c409udpdbe7vt20@google.com"
-      }
-    },
-    {
       "id": "572ns47m5eiboea8kumrbsnr8r@google.com",
       "title": "Sketch The Vessel",
       "date": "2025-06-21",
@@ -3736,6 +3737,20 @@
         "title": "Sketch The Vessel",
         "googleEventId": "572ns47m5eiboea8kumrbsnr8r@google.com",
         "url": "https://www.nycurbansketchers.org/2025/06/saturday-june-21-vessel-shed.html"
+      }
+    },
+    {
+      "id": "1ov3eimh0q1c409udpdbe7vt20@google.com",
+      "title": "Workshop Danna Feintuch",
+      "date": "2025-06-21",
+      "year": 2025,
+      "month": 6,
+      "season": "summer",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop Danna Feintuch",
+        "googleEventId": "1ov3eimh0q1c409udpdbe7vt20@google.com"
       }
     },
     {
@@ -3859,6 +3874,21 @@
       }
     },
     {
+      "id": "0a7vis5fgobk0eti2q575h9ihn@google.com",
+      "title": "Westchester Sketchers at Caramoor Open House/Kick-off day",
+      "date": "2025-06-01",
+      "year": 2025,
+      "month": 6,
+      "season": "summer",
+      "geocodeStatus": "needs_review",
+      "source": {
+        "type": "google_calendar",
+        "title": "Westchester Sketchers at Caramoor Open House/Kick-off day",
+        "googleEventId": "0a7vis5fgobk0eti2q575h9ihn@google.com",
+        "url": "https://www.nycurbansketchers.org/2025/05/sunday-june-1-2025-westchester.html"
+      }
+    },
+    {
       "id": "2fsc53nsqs8kgg72htkrid45oq@google.com",
       "title": "Domino Park",
       "date": "2025-06-01",
@@ -3874,21 +3904,6 @@
         "type": "google_calendar",
         "title": "Domino Park",
         "googleEventId": "2fsc53nsqs8kgg72htkrid45oq@google.com"
-      }
-    },
-    {
-      "id": "0a7vis5fgobk0eti2q575h9ihn@google.com",
-      "title": "Westchester Sketchers at Caramoor Open House/Kick-off day",
-      "date": "2025-06-01",
-      "year": 2025,
-      "month": 6,
-      "season": "summer",
-      "geocodeStatus": "needs_review",
-      "source": {
-        "type": "google_calendar",
-        "title": "Westchester Sketchers at Caramoor Open House/Kick-off day",
-        "googleEventId": "0a7vis5fgobk0eti2q575h9ihn@google.com",
-        "url": "https://www.nycurbansketchers.org/2025/05/sunday-june-1-2025-westchester.html"
       }
     },
     {
@@ -5797,38 +5812,6 @@
         "title": "Westchester Sketchers at Harbor Island Park in Mamaroneck",
         "googleEventId": "1ar92m1nju3578v03968dgje4k@google.com",
         "url": "https://www.nycurbansketchers.org/2024/08/thursday-september-5-2024-westchester.html"
-      }
-    },
-    {
-      "id": "2cmlb3h96covlf3kt7ndhia5m6@google.com",
-      "title": "Brooklyn Bridge Park",
-      "date": "2024-08-28",
-      "year": 2024,
-      "month": 8,
-      "season": "summer",
-      "locationText": "Brooklyn Bridge Park",
-      "lat": 40.7024,
-      "lng": -73.9967,
-      "borough": "Brooklyn",
-      "geocodeStatus": "auto",
-      "source": {
-        "type": "google_calendar",
-        "title": "Brooklyn Bridge Park",
-        "googleEventId": "2cmlb3h96covlf3kt7ndhia5m6@google.com"
-      }
-    },
-    {
-      "id": "7baf11dquaf2817eidhkp6l3tu@google.com",
-      "title": "Mel Barranco Workshop",
-      "date": "2024-08-24",
-      "year": 2024,
-      "month": 8,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Mel Barranco Workshop",
-        "googleEventId": "7baf11dquaf2817eidhkp6l3tu@google.com"
       }
     }
   ]
