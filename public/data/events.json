@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-07T15:24:26.885Z",
+  "generatedAt": "2026-09-14T16:04:15.998Z",
   "range": {
-    "from": "2024-09-07",
-    "to": "2026-09-07"
+    "from": "2024-09-14",
+    "to": "2026-09-14"
   },
   "source": "google_calendar",
   "events": [
@@ -151,20 +151,6 @@
       }
     },
     {
-      "id": "4358i642d3r5401qi6qgtl6t62@google.com",
-      "title": "WORKSHOP • Painting Astoria Park and the Hell Gate Bridge",
-      "date": "2026-10-03",
-      "year": 2026,
-      "month": 10,
-      "season": "fall",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "WORKSHOP • Painting Astoria Park and the Hell Gate Bridge",
-        "googleEventId": "4358i642d3r5401qi6qgtl6t62@google.com"
-      }
-    },
-    {
       "id": "3ik6jgllpk022m9fq3m6d3hnj9@google.com",
       "title": "Weekend Sketchers: Forest Hills",
       "date": "2026-10-03",
@@ -180,6 +166,20 @@
         "type": "google_calendar",
         "title": "Weekend Sketchers: Forest Hills",
         "googleEventId": "3ik6jgllpk022m9fq3m6d3hnj9@google.com"
+      }
+    },
+    {
+      "id": "4358i642d3r5401qi6qgtl6t62@google.com",
+      "title": "WORKSHOP • Painting Astoria Park and the Hell Gate Bridge",
+      "date": "2026-10-03",
+      "year": 2026,
+      "month": 10,
+      "season": "fall",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "WORKSHOP • Painting Astoria Park and the Hell Gate Bridge",
+        "googleEventId": "4358i642d3r5401qi6qgtl6t62@google.com"
       }
     },
     {
@@ -201,6 +201,20 @@
       }
     },
     {
+      "id": "0brhae0prks09bp0ke54fjh72g@google.com",
+      "title": "WORKSHOP: Perspective Simplified: Creating Depth and Drama in Urban Sketches",
+      "date": "2026-09-26",
+      "year": 2026,
+      "month": 9,
+      "season": "fall",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "WORKSHOP: Perspective Simplified: Creating Depth and Drama in Urban Sketches",
+        "googleEventId": "0brhae0prks09bp0ke54fjh72g@google.com"
+      }
+    },
+    {
       "id": "1u9pprlo0bv93u0ck9lhtpepkg@google.com",
       "title": "2nd WORKSHOP: Perspective Simplified: Creating Depth and Drama in Urban Sketches",
       "date": "2026-09-26",
@@ -216,7 +230,7 @@
     },
     {
       "id": "3ph7bfoq59g7rtcug8e37iv6fe@google.com",
-      "title": "Weekend Sketchers: Oyster Bay Long Island",
+      "title": "Weekend Sketchers: TBD- (Oyster Bay Postponed)",
       "date": "2026-09-26",
       "year": 2026,
       "month": 9,
@@ -228,22 +242,8 @@
       "geocodeStatus": "auto",
       "source": {
         "type": "google_calendar",
-        "title": "Weekend Sketchers: Oyster Bay Long Island",
+        "title": "Weekend Sketchers: TBD- (Oyster Bay Postponed)",
         "googleEventId": "3ph7bfoq59g7rtcug8e37iv6fe@google.com"
-      }
-    },
-    {
-      "id": "0brhae0prks09bp0ke54fjh72g@google.com",
-      "title": "WORKSHOP: Perspective Simplified: Creating Depth and Drama in Urban Sketches",
-      "date": "2026-09-26",
-      "year": 2026,
-      "month": 9,
-      "season": "fall",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "WORKSHOP: Perspective Simplified: Creating Depth and Drama in Urban Sketches",
-        "googleEventId": "0brhae0prks09bp0ke54fjh72g@google.com"
       }
     },
     {
@@ -320,6 +320,20 @@
         "type": "google_calendar",
         "title": "Weekday Sketchers",
         "googleEventId": "2qdrr5cn8v3qju6bo6efr6vm57@google.com"
+      }
+    },
+    {
+      "id": "60p1imj7soutkaekk0k27jvm46@google.com",
+      "title": " WESTCHESTER SKETCHERS at Horseshoe Harbor Yacht Club in Larchmont",
+      "date": "2026-09-15",
+      "year": 2026,
+      "month": 9,
+      "season": "fall",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": " WESTCHESTER SKETCHERS at Horseshoe Harbor Yacht Club in Larchmont",
+        "googleEventId": "60p1imj7soutkaekk0k27jvm46@google.com"
       }
     },
     {
@@ -527,20 +541,6 @@
       }
     },
     {
-      "id": "2vrn28ma5vcs73os0v3tvje5cs@google.com",
-      "title": "WORKSHOP: Let it glow with Katie Woodward",
-      "date": "2026-08-15",
-      "year": 2026,
-      "month": 8,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "WORKSHOP: Let it glow with Katie Woodward",
-        "googleEventId": "2vrn28ma5vcs73os0v3tvje5cs@google.com"
-      }
-    },
-    {
       "id": "6unfm6tbq6f9hoilakla5mh803@google.com",
       "title": "Weekend Sketchers: Grant's Tomb/ Riverside Church",
       "date": "2026-08-15",
@@ -552,6 +552,20 @@
         "type": "google_calendar",
         "title": "Weekend Sketchers: Grant's Tomb/ Riverside Church",
         "googleEventId": "6unfm6tbq6f9hoilakla5mh803@google.com"
+      }
+    },
+    {
+      "id": "2vrn28ma5vcs73os0v3tvje5cs@google.com",
+      "title": "WORKSHOP: Let it glow with Katie Woodward",
+      "date": "2026-08-15",
+      "year": 2026,
+      "month": 8,
+      "season": "summer",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "WORKSHOP: Let it glow with Katie Woodward",
+        "googleEventId": "2vrn28ma5vcs73os0v3tvje5cs@google.com"
       }
     },
     {
@@ -1072,24 +1086,6 @@
       }
     },
     {
-      "id": "g83p0j76eg8tiibkdeb60rj690@google.com",
-      "title": "Workshop: Gesture Painting with Rene Barkette",
-      "date": "2026-06-06",
-      "year": 2026,
-      "month": 6,
-      "season": "summer",
-      "locationText": "Madison Square Park",
-      "lat": 40.742,
-      "lng": -73.9876,
-      "borough": "Manhattan",
-      "geocodeStatus": "manual",
-      "source": {
-        "type": "google_calendar",
-        "title": "Workshop: Gesture Painting with Rene Barkette",
-        "googleEventId": "g83p0j76eg8tiibkdeb60rj690@google.com"
-      }
-    },
-    {
       "id": "7a99uovuo4bl1tg9lp4ag14bfd@google.com",
       "title": "Weekend Sketchers: Conservatory Garden, Central Park",
       "date": "2026-06-06",
@@ -1108,6 +1104,24 @@
       }
     },
     {
+      "id": "g83p0j76eg8tiibkdeb60rj690@google.com",
+      "title": "Workshop: Gesture Painting with Rene Barkette",
+      "date": "2026-06-06",
+      "year": 2026,
+      "month": 6,
+      "season": "summer",
+      "locationText": "Madison Square Park",
+      "lat": 40.742,
+      "lng": -73.9876,
+      "borough": "Manhattan",
+      "geocodeStatus": "manual",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop: Gesture Painting with Rene Barkette",
+        "googleEventId": "g83p0j76eg8tiibkdeb60rj690@google.com"
+      }
+    },
+    {
       "id": "039h05gac4c8boalsmulgdhqqd@google.com",
       "title": "Weekday Sketchers ",
       "date": "2026-06-03",
@@ -1123,6 +1137,21 @@
         "type": "google_calendar",
         "title": "Weekday Sketchers ",
         "googleEventId": "039h05gac4c8boalsmulgdhqqd@google.com"
+      }
+    },
+    {
+      "id": "4kg0839lvac4k5f1r55upuom8j@google.com",
+      "title": "WESTCHESTER SKETCHERS at Caramoor's Welcome Summer Opening Day Event in Katonah",
+      "date": "2026-05-30",
+      "year": 2026,
+      "month": 5,
+      "season": "spring",
+      "geocodeStatus": "needs_review",
+      "source": {
+        "type": "google_calendar",
+        "title": "WESTCHESTER SKETCHERS at Caramoor's Welcome Summer Opening Day Event in Katonah",
+        "googleEventId": "4kg0839lvac4k5f1r55upuom8j@google.com",
+        "url": "https://www.nycurbansketchers.org/2026/05/saturday-may-30-2026-westchester.html"
       }
     },
     {
@@ -1155,21 +1184,6 @@
         "type": "google_calendar",
         "title": "Workshop: Look Up and Sketch Something New!",
         "googleEventId": "moa2rgm222c0bk5gt6t48su3t4@google.com"
-      }
-    },
-    {
-      "id": "4kg0839lvac4k5f1r55upuom8j@google.com",
-      "title": "WESTCHESTER SKETCHERS at Caramoor's Welcome Summer Opening Day Event in Katonah",
-      "date": "2026-05-30",
-      "year": 2026,
-      "month": 5,
-      "season": "spring",
-      "geocodeStatus": "needs_review",
-      "source": {
-        "type": "google_calendar",
-        "title": "WESTCHESTER SKETCHERS at Caramoor's Welcome Summer Opening Day Event in Katonah",
-        "googleEventId": "4kg0839lvac4k5f1r55upuom8j@google.com",
-        "url": "https://www.nycurbansketchers.org/2026/05/saturday-may-30-2026-westchester.html"
       }
     },
     {
@@ -1377,24 +1391,6 @@
       }
     },
     {
-      "id": "55kr4q79klr8iu1jrmg852kial@google.com",
-      "title": "Weekend Sketchers: Central Park: Bandshell Area and Dance Skaters",
-      "date": "2026-05-02",
-      "year": 2026,
-      "month": 5,
-      "season": "spring",
-      "locationText": "Central Park",
-      "lat": 40.7829,
-      "lng": -73.9654,
-      "borough": "Manhattan",
-      "geocodeStatus": "auto",
-      "source": {
-        "type": "google_calendar",
-        "title": "Weekend Sketchers: Central Park: Bandshell Area and Dance Skaters",
-        "googleEventId": "55kr4q79klr8iu1jrmg852kial@google.com"
-      }
-    },
-    {
       "id": "7vqiiavarn2cqci9pbvseicr2j@google.com",
       "title": "Workshop: Building a Spiral of Attention with Nishant Jain",
       "date": "2026-05-02",
@@ -1410,6 +1406,24 @@
         "type": "google_calendar",
         "title": "Workshop: Building a Spiral of Attention with Nishant Jain",
         "googleEventId": "7vqiiavarn2cqci9pbvseicr2j@google.com"
+      }
+    },
+    {
+      "id": "55kr4q79klr8iu1jrmg852kial@google.com",
+      "title": "Weekend Sketchers: Central Park: Bandshell Area and Dance Skaters",
+      "date": "2026-05-02",
+      "year": 2026,
+      "month": 5,
+      "season": "spring",
+      "locationText": "Central Park",
+      "lat": 40.7829,
+      "lng": -73.9654,
+      "borough": "Manhattan",
+      "geocodeStatus": "auto",
+      "source": {
+        "type": "google_calendar",
+        "title": "Weekend Sketchers: Central Park: Bandshell Area and Dance Skaters",
+        "googleEventId": "55kr4q79klr8iu1jrmg852kial@google.com"
       }
     },
     {
@@ -3823,20 +3837,6 @@
       }
     },
     {
-      "id": "1ov3eimh0q1c409udpdbe7vt20@google.com",
-      "title": "Workshop Danna Feintuch",
-      "date": "2025-06-21",
-      "year": 2025,
-      "month": 6,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Workshop Danna Feintuch",
-        "googleEventId": "1ov3eimh0q1c409udpdbe7vt20@google.com"
-      }
-    },
-    {
       "id": "572ns47m5eiboea8kumrbsnr8r@google.com",
       "title": "Sketch The Vessel",
       "date": "2025-06-21",
@@ -3853,6 +3853,20 @@
         "title": "Sketch The Vessel",
         "googleEventId": "572ns47m5eiboea8kumrbsnr8r@google.com",
         "url": "https://www.nycurbansketchers.org/2025/06/saturday-june-21-vessel-shed.html"
+      }
+    },
+    {
+      "id": "1ov3eimh0q1c409udpdbe7vt20@google.com",
+      "title": "Workshop Danna Feintuch",
+      "date": "2025-06-21",
+      "year": 2025,
+      "month": 6,
+      "season": "summer",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop Danna Feintuch",
+        "googleEventId": "1ov3eimh0q1c409udpdbe7vt20@google.com"
       }
     },
     {
@@ -3893,20 +3907,6 @@
       }
     },
     {
-      "id": "4rrakfrgp1doepkt9c148ke3b4@google.com",
-      "title": "Workshop Susan Greenstein-painting Practice using Wet-on-Wet",
-      "date": "2025-06-14",
-      "year": 2025,
-      "month": 6,
-      "season": "summer",
-      "geocodeStatus": "failed",
-      "source": {
-        "type": "google_calendar",
-        "title": "Workshop Susan Greenstein-painting Practice using Wet-on-Wet",
-        "googleEventId": "4rrakfrgp1doepkt9c148ke3b4@google.com"
-      }
-    },
-    {
       "id": "1ir61e1u1ss668jc87hov4ph4t@google.com",
       "title": "Elevated Acres",
       "date": "2025-06-14",
@@ -3922,6 +3922,20 @@
         "type": "google_calendar",
         "title": "Elevated Acres",
         "googleEventId": "1ir61e1u1ss668jc87hov4ph4t@google.com"
+      }
+    },
+    {
+      "id": "4rrakfrgp1doepkt9c148ke3b4@google.com",
+      "title": "Workshop Susan Greenstein-painting Practice using Wet-on-Wet",
+      "date": "2025-06-14",
+      "year": 2025,
+      "month": 6,
+      "season": "summer",
+      "geocodeStatus": "failed",
+      "source": {
+        "type": "google_calendar",
+        "title": "Workshop Susan Greenstein-painting Practice using Wet-on-Wet",
+        "googleEventId": "4rrakfrgp1doepkt9c148ke3b4@google.com"
       }
     },
     {
@@ -3961,21 +3975,6 @@
       }
     },
     {
-      "id": "0a7vis5fgobk0eti2q575h9ihn@google.com",
-      "title": "Westchester Sketchers at Caramoor Open House/Kick-off day",
-      "date": "2025-06-01",
-      "year": 2025,
-      "month": 6,
-      "season": "summer",
-      "geocodeStatus": "needs_review",
-      "source": {
-        "type": "google_calendar",
-        "title": "Westchester Sketchers at Caramoor Open House/Kick-off day",
-        "googleEventId": "0a7vis5fgobk0eti2q575h9ihn@google.com",
-        "url": "https://www.nycurbansketchers.org/2025/05/sunday-june-1-2025-westchester.html"
-      }
-    },
-    {
       "id": "2fsc53nsqs8kgg72htkrid45oq@google.com",
       "title": "Domino Park",
       "date": "2025-06-01",
@@ -3991,6 +3990,21 @@
         "type": "google_calendar",
         "title": "Domino Park",
         "googleEventId": "2fsc53nsqs8kgg72htkrid45oq@google.com"
+      }
+    },
+    {
+      "id": "0a7vis5fgobk0eti2q575h9ihn@google.com",
+      "title": "Westchester Sketchers at Caramoor Open House/Kick-off day",
+      "date": "2025-06-01",
+      "year": 2025,
+      "month": 6,
+      "season": "summer",
+      "geocodeStatus": "needs_review",
+      "source": {
+        "type": "google_calendar",
+        "title": "Westchester Sketchers at Caramoor Open House/Kick-off day",
+        "googleEventId": "0a7vis5fgobk0eti2q575h9ihn@google.com",
+        "url": "https://www.nycurbansketchers.org/2025/05/sunday-june-1-2025-westchester.html"
       }
     },
     {
@@ -5812,60 +5826,6 @@
         "type": "google_calendar",
         "title": "Shawne Cooper Workshop",
         "googleEventId": "2m7hli90rrpng7n61r9c7erktc@google.com"
-      }
-    },
-    {
-      "id": "2sb1h1v071lagftak44oidcmv9@google.com",
-      "title": "Sketch Oyster Bay",
-      "date": "2024-09-14",
-      "year": 2024,
-      "month": 9,
-      "season": "fall",
-      "locationText": "Oyster Bay",
-      "lat": 40.871,
-      "lng": -73.5312,
-      "borough": "Long Island",
-      "geocodeStatus": "auto",
-      "source": {
-        "type": "google_calendar",
-        "title": "Sketch Oyster Bay",
-        "googleEventId": "2sb1h1v071lagftak44oidcmv9@google.com"
-      }
-    },
-    {
-      "id": "4i8ajn73fpt48h74s1jv0vmnkv@google.com",
-      "title": "NYPL Workshop Andrea Strongwater",
-      "date": "2024-09-13",
-      "year": 2024,
-      "month": 9,
-      "season": "fall",
-      "locationText": "New York Public Library",
-      "lat": 40.7532,
-      "lng": -73.9822,
-      "borough": "Manhattan",
-      "geocodeStatus": "auto",
-      "source": {
-        "type": "google_calendar",
-        "title": "NYPL Workshop Andrea Strongwater",
-        "googleEventId": "4i8ajn73fpt48h74s1jv0vmnkv@google.com"
-      }
-    },
-    {
-      "id": "4d1i2u8dgs9iqc1gdbo4rue9iv@google.com",
-      "title": "ST. LUKE'S OF THE FIELD",
-      "date": "2024-09-11",
-      "year": 2024,
-      "month": 9,
-      "season": "fall",
-      "locationText": "St. Luke in the Fields",
-      "lat": 40.7337,
-      "lng": -74.0037,
-      "borough": "Manhattan",
-      "geocodeStatus": "auto",
-      "source": {
-        "type": "google_calendar",
-        "title": "ST. LUKE'S OF THE FIELD",
-        "googleEventId": "4d1i2u8dgs9iqc1gdbo4rue9iv@google.com"
       }
     }
   ]
